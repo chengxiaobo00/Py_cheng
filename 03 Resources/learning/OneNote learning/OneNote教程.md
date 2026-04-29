@@ -1,0 +1,8 @@
+[10分钟入门OneNote](https://www.bilibili.com/video/BV1764y1M743/?spm_id_from=333.337.search-card.all.click&vd_source=cffd98a6083de232e2ecd74f9f3eac95)
+[创建编号列表 08:25](https://www.bilibili.com/video/BV1wE411o7mP/?p=5&spm_id_from=pageDriver&vd_source=cffd98a6083de232e2ecd74f9f3eac95)
+[创建指向段落的链接 05:06](https://www.bilibili.com/video/BV1wE411o7mP?p=8&vd_source=cffd98a6083de232e2ecd74f9f3eac95)
+[自定义标记单词本 06:40](https://www.bilibili.com/video/BV1wE411o7mP?p=9&vd_source=cffd98a6083de232e2ecd74f9f3eac95)
+[自定义模板](https://www.bilibili.com/video/BV1wE411o7mP?p=10&vd_source=cffd98a6083de232e2ecd74f9f3eac95)
+[表格制作思维导图](https://www.bilibili.com/video/BV1zi4y1u7Z5/?spm_id_from=333.788.recommend_more_video.1&vd_source=cffd98a6083de232e2ecd74f9f3eac95)
+[区分onenote版本](https://www.bilibili.com/video/BV1Yd4y117J3/?spm_id_from=333.337.search-card.all.click&vd_source=cffd98a6083de232e2ecd74f9f3eac95)
+[老牌笔记应用OneNote使用教程 ① 入门知识](https://www.youtube.com/watch?v=j8a9BHvrgKE)

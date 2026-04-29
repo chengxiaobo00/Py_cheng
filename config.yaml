@@ -1,0 +1,81 @@
+version: 1
+project: My Mac
+description: 'Obsidian vault with sage-wiki: My Mac'
+vault:
+    root: .
+sources:
+    - path: 00 Inbox
+      type: article
+      watch: true
+    - path: 01 日记
+      type: article
+      watch: true
+    - path: 02 工作
+      type: article
+      watch: true
+    - path: 03 读书
+      type: article
+      watch: true
+    - path: 04 学习资料
+      type: article
+      watch: true
+    - path: 05 管理
+      type: article
+      watch: true
+    - path: 06 专业领域
+      type: article
+      watch: true
+    - path: 07 生活
+      type: article
+      watch: true
+    - path: 08 Archives
+      type: article
+      watch: true
+    - path: 09 工具学习
+      type: article
+      watch: true
+    - path: Daily Note
+      type: article
+      watch: true
+    - path: Flomo
+      type: article
+      watch: true
+    - path: Template
+      type: article
+      watch: true
+    - path: copilot-custom-prompts
+      type: article
+      watch: true
+output: _wiki
+ignore:
+    - _wiki
+api:
+    provider: "ollama"
+    api_key: ""
+    base_url: "http://localhost:11434"
+models:
+    summarize: "qwen2.5:1.5b"
+    extract: "qwen2.5:1.5b"
+    write: "qwen2.5:1.5b"
+    lint: "qwen2.5:1.5b"
+    query: "qwen2.5:1.5b"
+compiler:
+    max_parallel: 1
+    debounce_seconds: 5
+    summary_max_tokens: 2000
+    article_max_tokens: 4000
+    auto_commit: true
+    auto_lint: true
+search:
+    hybrid_weight_bm25: 0.7
+    hybrid_weight_vector: 0.3
+    default_limit: 10
+linting:
+    auto_fix_passes:
+        - consistency
+        - completeness
+        - style
+    staleness_threshold_days: 90
+serve:
+    transport: stdio
+    port: 3333

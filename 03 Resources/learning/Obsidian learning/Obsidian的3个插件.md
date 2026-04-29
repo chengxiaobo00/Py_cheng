@@ -1,0 +1,305 @@
+---
+title: "[[<% tp.file.title %>]]"
+description: Buttons、Templater、Quick Add的用法
+type: Buttons
+url: 
+tags:
+  - Obsidian-learning
+---
+
+# 7天研究3个插件，我悟了，笔记原来要这样做！
+[[Omnivore]]
+
+[Read on Omnivore](https://omnivore.app/me/https-mp-weixin-qq-com-s-u-pq-7-bh-y-ko-i-oet-9-kamyo-7-w-18db3b7941d)
+[Read Original](https://mp.weixin.qq.com/s/uPq7BH-YKoIOet9Kamyo7w)
+
+原创 拉登Dony  拉小登 _2023-12-21 00:34_ _山东_ 
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s_0lf94Z_SA5m4AxhICTJq5pEM_WYTA7y7ILoDQcSuxs/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPcHTvicPlg8HTVFW2wYRHuw52B5O2wcDRJaP0HHOnMSHgib1pu9cuKY6A/640?wx_fmt=png&from=appmsg)
+
+> **今日目标：**
+> 
+> 3个笔记插件的底层原理
+
+Obsidian系列文章目录：
+
+* [第1天，从零开始学习Obsidian](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649687928&idx=1&sn=6c92283a49cd9d41e0d4575b63ce24e5&chksm=870ff96fb0787079742a21b3c431810393376eee693a33d502b8433dabdcd44218f9c0ea194a&token=1071217089&lang=zh%5FCN&scene=21#wechat%5Fredirect)
+* [第2天，如何快速上手 Obsidian？从认识界面开始！](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649687928&idx=1&sn=6c92283a49cd9d41e0d4575b63ce24e5&chksm=870ff96fb0787079742a21b3c431810393376eee693a33d502b8433dabdcd44218f9c0ea194a&token=1071217089&lang=zh%5FCN&scene=21#wechat%5Fredirect)
+* [第3天，Obsidian笔记分类技巧，第3个方法一定要学！](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649687952&idx=1&sn=c670fcaa33f0ec9df210cd7ebec7c2e4&chksm=870ff987b07870914c4d4e60b53b3dcd7e6a9e2f38b179d0c724aabf83de25f423f68692276b&token=1071217089&lang=zh%5FCN&scene=21#wechat%5Fredirect)
+* [第4天，Obsidian达人秘籍：标签管理助你事半功倍！](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688018&idx=1&sn=b62d82792a66966d020ae739f34fd0aa&chksm=870ff9c5b07870d36d9e25e4fefd82c35421667261950d81d23e1b1c6349ca18c864c3b85843&token=519661445&lang=zh%5FCN&scene=21#wechat%5Fredirect)
+* [第5天，Obsidian插件自学指南1-编辑器篇](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688058&idx=1&sn=403eb17b45c9e777cf815c99639e9ff8&chksm=870ff9edb07870fb1dfc97c210535a1745b08367bc79c480ec40e567864cade8a8f144ff3ac3&token=675511899&lang=zh%5FCN&scene=21#wechat%5Fredirect)
+* [第6天，Obsidian插件自学指南2-媒体篇](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688437&idx=1&sn=1e41292bb97249392bf1e3b061387884&chksm=870ff762b0787e74683ffbe74afc9856ccd8db6d26d30b22e40a69aea21376cadaf4fccd8ce3&scene=21#wechat%5Fredirect)
+* [第7天，Obsidian插件自学指南3-一键提升笔记颜值！](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688526&idx=1&sn=6233a49037c360b910a13cbcaaef68c9&chksm=870ff7d9b0787ecf980bd5e4ef0b9fc05fd0a85e1f024049d2930ff358a0b6964bb962591a9a&token=2132431450&lang=zh%5FCN&scene=21#wechat%5Fredirect)
+* [第8天，Obsidian一键自动创建笔记，就用这个插件！](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688728&idx=1&sn=b169c9dbd75f1628a53d1450f8c4f3cd&chksm=870ff48fb0787d992799a5a908cdcbd6fdbbc3625d780ec2a65ffc538f5d5fa03996e74c535c&scene=21#wechat%5Fredirect)
+* [第9天，Obsidian一键创建日报，一定要学会【模版】插件](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688758&idx=1&sn=6816292f65f706af53f6c6bad71e5faf&chksm=870ff4a1b0787db7739bbc59199597837d5289bbbb4cc87f297f7710811c3f28dd1d054232c4&scene=21#wechat%5Fredirect)
+* [第10天，Obsidian效率翻倍的模版插件，Templater](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688792&idx=1&sn=fb1e815845abe19205cf89b6e64824fe&chksm=870ff4cfb0787dd924c15b58acd6b168c2241c1f3326ea8a32ee0da00af58264da470d1c86f5&scene=21#wechat%5Fredirect)
+* [第11天，Obsidian高效编辑笔记第3弹，Quick Add插件](https://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MzA5MTk2MA==&mid=2649688840&idx=1&sn=28d24ad8ba7d662146ca98cf6014b507&chksm=870ff51fb0787c097bdbead5a3c687259fded44d0e11a007cbf8ad0592286d040cdca3ee26e0&scene=21#wechat%5Fredirect)
+
+欢迎收藏、订阅**《10个必会的Obsidian技巧》**系列教程，今天是学习OB的第12天。
+
+---
+
+如果你是这个系列教程的读者，那应该知道，我把Obsidian的插件，分成了下面几大类型。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,smzm_Nm2uyv-0tUqKWeJS-ViTu6Xv-6ldBUJGfcIcNMk/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPIyYsZenL2vfpFiarWFgpoj2Zs9hF4J7nCkuuKMmDppDulWlS7yia0qDQ/640?wx_fmt=png&from=appmsg)
+
+最近一周一直在研究Obsidian的【快捷方式】类型的插件。主要包含下面3个插件：
+
+1. Buttons
+2. Templater
+3. 
+
+插件的功能都是类似的，掌握其中1个就可以。
+
+但是研究的过程并不简单，花费我好长的时间，因为：
+
+* 要从零开始，研究界面的每个按钮、选项的功能。
+* 要学习插件自定义脚本的规则，甚至自己写脚本。
+* 插件运行错误时，要大海捞针式的搜索解决方法。
+
+**通过这一周的学习，我是真实的感受到，小白入门学习一个陌生领域，是多么的艰难。**
+
+## 插件共同点
+
+回到Obsidian插件。
+
+上面这3个插件的功能都是类似的，属于【快捷方式】类型的插件，提供了一些编写笔记时的快捷操作，比如：
+
+1. 快速创建日记
+2. 修改笔记名称
+3. 从模版导入笔记
+4. 对笔记分类等等
+
+更具体一点，我把相关的功能整理成了一个表格，可以更清楚了解每个插件的支持情况。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,shPL32RbxXO7rexGOM7-eZETW1Pd-su8spPBYmVNDpJk/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPHpia6vOGfw6YMeCc2Gma9SMjsyibKegSsCoYsZa7cMDGgdyrc924icE4w/640?wx_fmt=png&from=appmsg)
+
+表格中图标的含义是：
+
+1. 【对勾】表示支持该功能。
+2. 【感叹号】表示支持，但是可能需要编写代码实现。
+
+现在回过头来看这张表格，我反而觉得插件的用法不重要了，通过学习插件，探索出笔记用户的高频需求，或者职场黑话一点，叫做【底层逻辑】。
+
+> 这个逻辑就像是【字典】的检索方法，插件就是字典里的字。
+> 
+> 掌握了检索方法后，不需要认识所有的字，需要的时候去字典里面查就可以。
+
+掌握了插件背后的【底层逻辑】，不需要学习所有的笔记软件，需要时候能根据使用频率、学习成本，选择更简单、高效的方法，就可以了。
+
+## 追加文本
+
+需求中的第1类是【追加文本】。
+
+很好理解，就是把自己准备好的笔记模版，快速插入到当前、或指定笔记中。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sM0KxjAKbBL9txoIkqeXl-GP6PDJPfFU0fJaqIMUc_ZU/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPa9oJqHXBKzDDoOLZOQdBlwJ4R7tS18RksiaJqJyrGd9ljcOBiauVUpgg/640?wx_fmt=png&from=appmsg)
+
+比如：
+
+1. 插入日报模版
+2. 插入公众号二维码
+3. 插入当前日期
+
+这些需求，可以总结成两种类型：追加到当前文档、追加到指定文档
+
+## 追加到当前文档
+
+把常用的文字保存成模版，在需要的时候直接插入到当前文档。
+
+### ◆用插件前
+
+可能保存在某个word文档里，每次都要找到模版文件，打开后复制粘贴，效率非常低。
+
+### ◆用插件后
+
+使用了button、Templater、Quick add等插件，可以一键把指定的文本、或模版中的文字，快速插入到当前文档中。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sCWgz_kS4N8dZZrSgkUY0z2Kn-0rfKp0ie_7VRANxV5c/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPuZoS352NHtBnFCtTXeM8AkiazbF2o8ZFAs0qXZDzbhWOR1NhV5F3sPA/640?wx_fmt=png&from=appmsg)
+
+比如下图，是在Templater中，一键导入日报模版的效果。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s4KOl3b9ucf9ErzJk-dZt7RceyyNEB3xXOthDMtJNYDo/https://mmbiz.qpic.cn/sz_mmbiz_gif/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPy1ywUmCGpp3QNPHudheo4BpfNbVcyicxosD6rX4em8B2mWasblC81yQ/640?wx_fmt=gif&from=appmsg)
+
+## 追加到其他文档
+
+这一点算是高级用法了。
+
+### ◆用插件前
+
+假如我们有一个文档，记录所有的工作待办。那么填写过程中，可能要不断的打开这个文档，添加新的待办。
+
+### ◆用插件后
+
+使用插件，则可以在不打开文档的情况下，直接将文字模版，插入到对应文档中。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sfjj7qR4EyOW5Yjs6KIs9sAz5yltzw2q4O-sYl_YhxHk/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPgbtaL6Rtkg7wXF6FV0wGjr4g9uShN1LGH3yaxyicawaaErUj8rZnNqw/640?wx_fmt=png&from=appmsg)
+
+我们在Quick Add的时候，就实现了类似的效果。
+
+按下【Alt+C】，快速输入临时任务，并写到【每日工作流水】文档中，变成工作待办。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sJyPE5yzvBzHaCQbxoawZ1lIoDkGj9yi3rBx3yvmaU-Y/https://mmbiz.qpic.cn/sz_mmbiz_gif/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPLTMa1icl9eQJjwkiciaibGfcGJKJ8zXjlhE2TQQDZevhflATgRwrjVrwtA/640?wx_fmt=gif&from=appmsg)
+
+整个过程，依然保留在当前处理的文档中，不会扰乱当前的思路，避免外部的干扰。
+
+## 小结
+
+如果你不是每天写十几篇稿子，也没有那么多的外部打扰要记录。
+
+那么使用传统的方法，需要的时候手动找一下模版，复制粘贴一下文字，可能要比研究插件更加高效。
+
+## 新建笔记
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,syfS2n9BDAsv_XUQkKV_2KhRWuKN9jsFeanB7WU3UqjY/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPugL9YgWe0zwoObFa2Z47wz6yqN7DjgxFh8pL6FjSI8CaNG9FibV3XhQ/640?wx_fmt=png&from=appmsg)
+
+## 用插件前
+
+大部分人创建新的笔记，可能是这样做：
+
+1. 点击【+】新建笔记，或者按下【Ctrl+N】新建笔记
+2. 修改笔记名称
+3. 开始写笔记
+
+## 用插件后
+
+如果你觉得这几步基础的操作都麻烦的话（比如每天写日报），可以使用Obsidian插件，把上面的步骤整合成1步，来提升效率。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,suNv6mMX8KYax7Ei8aRzBWDWxO_tPzN1P7n0m7OLOAPo/https://mmbiz.qpic.cn/sz_mmbiz_gif/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPtia4G8IulZ9CjRcEv9YjlAicrGfC1NRDrJ1FbUcH51IRB1yNfDrZRBpw/640?wx_fmt=gif&from=appmsg)
+
+### ◆buttons
+
+上图使用了buttons插件，以当天日期为名称，快速创建笔记。
+
+对应的代码如下：
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sjD_-jmiX80AfxZCSnHJlSGLt7i4U8UXpjPXCywFcNL4/https://mmbiz.qpic.cn/mmbiz_svg/574VdhMFwaE1FI94YHic5gIrqa2iaaVbP191WD2P5bYbz9bicM418Ywk0z6cibYxan2YIOl04VVibe5jic7etmoOt1nzFTAxCwKwj4/640?wx_fmt=svg&from=appmsg)```` ```button
+name 新建文档
+type note(日记<% tp.date.now("YYYY-MM-DD") %>,split) text
+action <% tp.date.now("YYYY-MM-DD") %> 的日记
+templater true
+```
+^button-text
+ ````
+
+### ◆Templater
+
+Templater也需要借助代码，来实现笔记的快速新建，以及修改笔记名称。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s1gZm43K-50LD2BPufO_9DX8Mag9Ek8A-2Jv3P4H0sY0/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPGWhZRG03Kmr6HZOkZJC87oZl2tTJRubYNjmoIAibLg6PesWibC13RZlQ/640?wx_fmt=png&from=appmsg)
+
+### ◆Quick Add
+
+通过在Quick Add中添加对应的Capture、Template任务，然后设置具体的选项，可以实现类似的效果。
+
+> 比如基于日报模版，快速创建每日工作日报。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sR9ol5aALlC664yLNLtvbtHkJiLZaspusTL4c0iejMQI/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPCeY46NUSibaqfzPePORtUT2zCR9j3ibOG75cynGN9NkUrPTT5PocPJ6g/640?wx_fmt=png&from=appmsg)
+
+## 小结
+
+就我自己而言，这种低频的操作，手动插入会更快一些。
+
+## 笔记管理
+
+当笔记积累到一定的数量后，整理笔记的需求就出来了。比如移动笔记到指定文件夹进行分类，读取笔记内容快速合并等等。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sLXfHfLRgvYC0wr_2-J4x3ch_0DoPJYENIcDkWzhksV4/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPpAzX8UIOgwqbmaH0SAK1FvvibsTsO9UdoAEVPA0NDLpwNHfCnxzzNHw/640?wx_fmt=png&from=appmsg)
+
+这不是新建笔记的快捷操作，这3款插件显然也不是很擅长，需要编写复杂的脚本来实现。
+
+比如在Templater中，可以使用下面的脚本，来移动笔记。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sjD_-jmiX80AfxZCSnHJlSGLt7i4U8UXpjPXCywFcNL4/https://mmbiz.qpic.cn/mmbiz_svg/574VdhMFwaE1FI94YHic5gIrqa2iaaVbP191WD2P5bYbz9bicM418Ywk0z6cibYxan2YIOl04VVibe5jic7etmoOt1nzFTAxCwKwj4/640?wx_fmt=svg&from=appmsg)`// File move
+<% await tp.file.move("/A/B/" + tp.file.title) %>
+// File move and rename
+<% await tp.file.move("/A/B/NewTitle") %>
+`
+
+使用下面的脚本，读取笔记的内容。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sjD_-jmiX80AfxZCSnHJlSGLt7i4U8UXpjPXCywFcNL4/https://mmbiz.qpic.cn/mmbiz_svg/574VdhMFwaE1FI94YHic5gIrqa2iaaVbP191WD2P5bYbz9bicM418Ywk0z6cibYxan2YIOl04VVibe5jic7etmoOt1nzFTAxCwKwj4/640?wx_fmt=svg&from=appmsg)`// Retrieve file content
+<% tp.file.content %>
+`
+
+但这个难度显然已经超出了大部分人的能力。
+
+应该有更合适的插件来完成这个操作，后续我们再不断的探索。
+
+## 其他
+
+我们喜欢通过点击按钮、或者按下快捷，来使用软件中的某个功能。
+
+Obsidian中打开某个功能的方法有两种：
+
+1. 使用快捷键
+2. 使用命令面板
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sxqVUhWwA8tcu6Jnzcel1qmobu2IUtlagRhIAZbrxeGU/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zP7hDpVO706Nqs0YyZdH7yDx80Qrqe62vkOhtbicZ2OwWWqcAwkY5fDlQ/640?wx_fmt=png&from=appmsg)
+
+为了使用起来更方便快捷，这3个插件对上面两种方式，都给于了不同的支持。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sOYrPmQqSZhffLzp6aS5864pnHiue24QufsxL0dIgwuc/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPGp9bdm3x71DqMkiaGLQAmS0GoqyplpwCIpQowpHMBlObbanddBzfyBQ/640?wx_fmt=png&from=appmsg)
+
+另外，Templater和Quick Add这两个插件，还支持用户自定义一些代码，来完成高级的操作，比如：
+
+1. 动态的插入当天的日期。
+2. 获取笔记名称、笔记内容。
+3. 读取所有笔记列表。
+4. 添加、移动、删除笔记等等。
+
+如果深入研究的话，应该可以挖掘出更多高级的脚本操作。
+
+**不过，我觉得普通用户没有必要研究的过于深入，专业的事情，必然有更专业的工具，用更简单的方式，呈现给用户。**
+
+## 总结
+
+看完前面对比的表格，你会感觉这几个插件确实挺简单的。
+
+为什么会这样呢？这篇文章做对了什么？让我有这样的感觉呢？我总结了下面3点：
+
+1. **明确了目标需求**，通过案例了解到了笔记管理的需求。
+2. **明确了参考对象**，每个操作都有对比案例，理解起来更简单。
+3. **提炼了需求原因**，提炼出了底层的使用逻辑，知道了为什么要这么做。
+
+## 为什么公式很难学？
+
+这突然让我明白了，为什么很多新手学习函数公式的时候，感觉很复杂。
+
+因为函数公式的那一套逻辑，和你思考问题的逻辑不一样，就像你去到了一个陌生的城市，经常会走错路一样。
+
+> 问路的时候，有的人用东西南北描述，有的人用前后左右描述，说了一大串，两个人完全听不懂对方。
+> 
+> 过一段时间的，等你熟悉了城市的大街小巷，就不会迷路了，因为你的目标明确了，参考对象也清晰了。
+
+## 如何高效的学习？
+
+经常看到有粉丝问：
+
+1. 如何高效的学习？
+2. 如何系统的学习？
+
+其实即便别人给了你答案，也不一定能帮助到你，因为你正处在一个【信息孤岛】上面。别人给你指路后，你可能依然是茫然一片。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s5BoYZebRe5Gb16GssBwh9oHAx7RIE9g0lXP4gq-SWBU/https://mmbiz.qpic.cn/sz_mmbiz_png/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPfqjj9pZt8q1jJGz74wLDia0EOSExZszia4oeZP5RLIra3x3A2wkh53sg/640?wx_fmt=png&from=appmsg)
+
+Notion、Obsidian、印象笔记、语雀、飞书等等，都是笔记软件，干的都是一件事情【做笔记】。
+
+过去我一直在不停的更换笔记软件，这就是一种“陌生”的表现。
+
+因为对笔记管理、知识管理不熟悉，所以出现问题就归结于笔记软件，其实我可能就没深入的思考过如何管理笔记。
+
+> 就像是自己能力不行、工作做的不好，想通过跳槽来改变现状一样，根本的方法，还是要提升自己。
+
+关于知识管理的目的、底层的逻辑和需求，我总结到了专栏**《知识管理，必会的30个技巧》**中，专栏还在连载中，欢迎扫码一起学习。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sF96UvOAwPbXssA7PFCYU-EbfOPgIyfFIN53o6JhxFw8/https://mmbiz.qpic.cn/sz_mmbiz_jpg/VpIHXp1jib5RI4fB5EWJwne3Hu9iahx1zPXicTicuNPaBHArDBtk5tC2NjkfJZeIz3es3TszeY3Xur1zsEmEBpLrFg/640?wx_fmt=jpeg&from=appmsg)
+
+> 我是拉小登，一个爱梳头的Excel老师
+
+如果这篇文章对你有帮助，请帮忙**「点赞」「在看」「转发」**。
+
+这对我很重要，能给拉小登更多动力，持续分享优质的内容。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sztHen2zKglbooc8jnRanh8F2QK9kejIH_eS7fuz0zAU/data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\"%3E%0A%3Cpath d=\"M12.8974 15.5585L14.9719 13.484L16.2447 14.7568L12.3519 18.6497C12.1566 18.8449 11.84 18.8449 11.6448 18.6497L7.75195 14.7568L9.02475 13.484L11.0974 15.5567L11.1 4.99976L12.9 5.0002L12.8974 15.5585Z\" fill=\"black\" opacity=\"0.3\"/%3E%0A%3C/svg%3E) 继续滑动看下一个 
+

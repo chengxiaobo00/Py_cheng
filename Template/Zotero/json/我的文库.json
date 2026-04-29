@@ -1,0 +1,1237 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 2,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 0,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": true,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower + shorttitle(3,3) + year",
+      "citekeySearch": true,
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
+      "csquotes": "",
+      "DOIandURL": "both",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
+      "warnBulkModify": 10,
+      "warnTitleCased": false
+    },
+    "options": {
+      "exportNotes": true,
+      "exportFileData": false,
+      "keepUpdated": false,
+      "worker": true,
+      "Normalize": false
+    }
+  },
+  "version": {
+    "zotero": "6.0.26",
+    "bbt": "6.7.79"
+  },
+  "collections": {
+    "KBXVDY4D": {
+      "key": "KBXVDY4D",
+      "parent": "",
+      "name": "导入 2022/12/17 下午10:02:44",
+      "collections": [],
+      "items": [
+        23,
+        24,
+        25,
+        158,
+        167,
+        168,
+        169,
+        170
+      ]
+    },
+    "5DWGHUSZ": {
+      "key": "5DWGHUSZ",
+      "parent": "",
+      "name": "我的第一篇Zotero",
+      "collections": [],
+      "items": [
+        1,
+        17,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        44
+      ]
+    }
+  },
+  "items": [
+    {
+      "key": "WUQZW3QQ",
+      "version": 5,
+      "itemType": "attachment",
+      "title": "部编版8年级道法上册【高清教材】.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "部编版8年级道法上册【高清教材】.pdf",
+      "tags": [
+        {
+          "tag": "道法笔记"
+        }
+      ],
+      "collections": [
+        "5DWGHUSZ"
+      ],
+      "relations": {},
+      "dateAdded": "2022-10-14T07:10:21Z",
+      "dateModified": "2022-10-14T07:10:21Z",
+      "uri": "http://zotero.org/users/10326904/items/WUQZW3QQ",
+      "itemID": 1,
+      "localPath": "/Users/chengjunming/Zotero/storage/WUQZW3QQ/部编版8年级道法上册【高清教材】.pdf",
+      "defaultPath": "files/1/部编版8年级道法上册【高清教材】.pdf",
+      "itemKey": "WUQZW3QQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WUQZW3QQ"
+    },
+    {
+      "key": "R2WQJL8P",
+      "version": 104,
+      "itemType": "attachment",
+      "title": "结构性改革（ 这本书从基础性、结构性、机制性、制度性等多个维度，深入剖析我国供给侧关键矛盾并对症下药。）_黄奇帆 [黄奇帆].pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "结构性改革（ 这本书从基础性、结构性、机制性、制度性等多个维度，深入剖析我国供给侧关键矛盾并对症下药。）_黄奇帆 [黄奇帆].pdf",
+      "tags": [],
+      "collections": [
+        "KBXVDY4D"
+      ],
+      "relations": {},
+      "dateAdded": "2023-01-14T08:42:32Z",
+      "dateModified": "2023-01-14T08:42:32Z",
+      "uri": "http://zotero.org/users/10326904/items/R2WQJL8P",
+      "itemID": 23,
+      "localPath": "/Users/chengjunming/Zotero/storage/R2WQJL8P/结构性改革（ 这本书从基础性、结构性、机制性、制度性等多个维度，深入剖析我国供给侧关键矛盾并对症下药。）_黄奇帆 [黄奇帆].pdf",
+      "defaultPath": "files/23/结构性改革（ 这本书从基础性、结构性、机制性、制度性等多个维度，深入剖析我国供给侧关键矛盾并对症下药。）_黄奇帆 [黄奇帆].pdf",
+      "itemKey": "R2WQJL8P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/R2WQJL8P"
+    },
+    {
+      "key": "M6YBRVZH",
+      "version": 116,
+      "itemType": "attachment",
+      "title": "6、沈祖芸-全球教育报告（8讲）_沈祖芸.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "6、沈祖芸-全球教育报告（8讲）_沈祖芸.pdf",
+      "tags": [],
+      "collections": [
+        "KBXVDY4D"
+      ],
+      "relations": {},
+      "dateAdded": "2023-01-14T08:57:22Z",
+      "dateModified": "2023-01-14T08:57:22Z",
+      "uri": "http://zotero.org/users/10326904/items/M6YBRVZH",
+      "itemID": 24,
+      "localPath": "/Users/chengjunming/Zotero/storage/M6YBRVZH/6、沈祖芸-全球教育报告（8讲）_沈祖芸.pdf",
+      "defaultPath": "files/24/6、沈祖芸-全球教育报告（8讲）_沈祖芸.pdf",
+      "itemKey": "M6YBRVZH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/M6YBRVZH"
+    },
+    {
+      "key": "KIS6AJWF",
+      "version": 120,
+      "itemType": "attachment",
+      "title": "我在通用汽车的岁月：斯隆自传_(美)艾尔弗雷德·斯隆-05版.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "我在通用汽车的岁月：斯隆自传_(美)艾尔弗雷德·斯隆-05版.pdf",
+      "tags": [],
+      "collections": [
+        "KBXVDY4D"
+      ],
+      "relations": {},
+      "dateAdded": "2023-01-14T09:23:08Z",
+      "dateModified": "2023-01-14T09:23:08Z",
+      "uri": "http://zotero.org/users/10326904/items/KIS6AJWF",
+      "itemID": 25,
+      "localPath": "/Users/chengjunming/Zotero/storage/KIS6AJWF/我在通用汽车的岁月：斯隆自传_(美)艾尔弗雷德·斯隆-05版.pdf",
+      "defaultPath": "files/25/我在通用汽车的岁月：斯隆自传_(美)艾尔弗雷德·斯隆-05版.pdf",
+      "itemKey": "KIS6AJWF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KIS6AJWF"
+    },
+    {
+      "key": "MZ2GLFHY",
+      "version": 200,
+      "itemType": "attachment",
+      "title": "70a55cc6f9737b4c9b2a8ef8989da2d2.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "70a55cc6f9737b4c9b2a8ef8989da2d2.pdf",
+      "tags": [],
+      "collections": [
+        "KBXVDY4D"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-20T15:37:27Z",
+      "dateModified": "2023-06-20T15:37:27Z",
+      "uri": "http://zotero.org/users/10326904/items/MZ2GLFHY",
+      "itemID": 167,
+      "localPath": "/Users/chengjunming/Zotero/storage/MZ2GLFHY/70a55cc6f9737b4c9b2a8ef8989da2d2.pdf",
+      "defaultPath": "files/167/70a55cc6f9737b4c9b2a8ef8989da2d2.pdf",
+      "itemKey": "MZ2GLFHY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MZ2GLFHY"
+    },
+    {
+      "key": "SFYVSHZZ",
+      "version": 210,
+      "itemType": "attachment",
+      "title": "如何阅读一本书.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "如何阅读一本书.pdf",
+      "tags": [],
+      "collections": [
+        "KBXVDY4D"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-28T04:46:33Z",
+      "dateModified": "2023-06-28T04:46:33Z",
+      "uri": "http://zotero.org/users/10326904/items/SFYVSHZZ",
+      "itemID": 169,
+      "localPath": "/Users/chengjunming/Zotero/storage/SFYVSHZZ/如何阅读一本书.pdf",
+      "defaultPath": "files/169/如何阅读一本书.pdf",
+      "itemKey": "SFYVSHZZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SFYVSHZZ"
+    },
+    {
+      "key": "Q6S8KY73",
+      "version": 176,
+      "itemType": "webpage",
+      "title": "A油田“90后”基层员工队伍调研报告",
+      "url": "https://syzzrs.yooso.com.cn/CN/abstract/abstract1105.shtml",
+      "accessDate": "2023-06-08T16:09:42Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-08T16:09:42Z",
+      "dateModified": "2023-06-08T16:09:42Z",
+      "uri": "http://zotero.org/users/10326904/items/Q6S8KY73",
+      "itemID": 26,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "A油田“90后”基层员工队伍调研报告",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-08T16:10:29Z",
+          "dateModified": "2023-06-08T16:10:29Z",
+          "uri": "http://zotero.org/users/10326904/items/7LW82XMR",
+          "path": "/Users/chengjunming/Zotero/storage/7LW82XMR/abstract1105.html",
+          "select": "zotero://select/library/items/7LW82XMR"
+        }
+      ],
+      "notes": [],
+      "citationKey": "AYouTian90HouJiCengYuanGongDuiWuDiaoYanBaoGao",
+      "itemKey": "Q6S8KY73",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Q6S8KY73"
+    },
+    {
+      "key": "ABARHKR9",
+      "version": 175,
+      "itemType": "webpage",
+      "title": "A油田“90后”基层员工队伍调研报告",
+      "url": "https://syzzrs.yooso.com.cn/CN/abstract/abstract1105.shtml",
+      "accessDate": "2023-06-08T16:09:36Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-08T16:09:36Z",
+      "dateModified": "2023-06-08T16:09:36Z",
+      "uri": "http://zotero.org/users/10326904/items/ABARHKR9",
+      "itemID": 27,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "A油田“90后”基层员工队伍调研报告",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-08T16:10:25Z",
+          "dateModified": "2023-06-08T16:10:25Z",
+          "uri": "http://zotero.org/users/10326904/items/9RHQHIZP",
+          "path": "/Users/chengjunming/Zotero/storage/9RHQHIZP/abstract1105.html",
+          "select": "zotero://select/library/items/9RHQHIZP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "AYouTian90HouJiCengYuanGongDuiWuDiaoYanBaoGaoa",
+      "itemKey": "ABARHKR9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ABARHKR9"
+    },
+    {
+      "key": "PJIK6QXG",
+      "version": 145,
+      "itemType": "book",
+      "title": "On history",
+      "date": "1982",
+      "libraryCatalog": "Google Scholar",
+      "publisher": "University of Chicago Press",
+      "creators": [
+        {
+          "firstName": "Fernand",
+          "lastName": "Braudel",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:45:54Z",
+      "dateModified": "2023-06-06T01:45:54Z",
+      "uri": "http://zotero.org/users/10326904/items/PJIK6QXG",
+      "itemID": 33,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "braudelHistory1982",
+      "itemKey": "PJIK6QXG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PJIK6QXG"
+    },
+    {
+      "key": "CPWIPWKK",
+      "version": 133,
+      "itemType": "journalArticle",
+      "title": "县级供电企业工会工作的现状与思考",
+      "date": "2012",
+      "libraryCatalog": "Google Scholar",
+      "pages": "57–57",
+      "publicationTitle": "大观周刊",
+      "issue": "18",
+      "creators": [
+        {
+          "name": "常天怀",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:01:37Z",
+      "dateModified": "2023-06-06T01:01:37Z",
+      "uri": "http://zotero.org/users/10326904/items/CPWIPWKK",
+      "itemID": 42,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "ChangTianHuaiXianJiGongDianQiYeGongHuiGongZuoDeXianZhuangYuSiKao2012",
+      "itemKey": "CPWIPWKK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CPWIPWKK"
+    },
+    {
+      "key": "KS949JYK",
+      "version": 205,
+      "itemType": "journalArticle",
+      "title": "Plasma sprayed coatings of hydroxylapatite",
+      "date": "12/1987",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/jbm.820211203",
+      "accessDate": "2023-06-21T02:13:28Z",
+      "volume": "21",
+      "pages": "1375-1381",
+      "publicationTitle": "Journal of Biomedical Materials Research",
+      "DOI": "10.1002/jbm.820211203",
+      "issue": "12",
+      "journalAbbreviation": "J. Biomed. Mater. Res.",
+      "ISSN": "0021-9304, 1097-4636",
+      "creators": [
+        {
+          "firstName": "K.",
+          "lastName": "De Groot",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "R.",
+          "lastName": "Geesink",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "C. P. A. T.",
+          "lastName": "Klein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "P.",
+          "lastName": "Serekian",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-21T02:13:28Z",
+      "dateModified": "2023-06-21T02:13:28Z",
+      "uri": "http://zotero.org/users/10326904/items/KS949JYK",
+      "itemID": 170,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "De Groot 等 - 1987 - Plasma sprayed coatings of hydroxylapatite.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-21T02:13:04Z",
+          "dateModified": "2023-06-21T02:13:29Z",
+          "uri": "http://zotero.org/users/10326904/items/LCWHFZ5H",
+          "path": "/Users/chengjunming/Zotero/storage/LCWHFZ5H/De Groot 等 - 1987 - Plasma sprayed coatings of hydroxylapatite.pdf",
+          "select": "zotero://select/library/items/LCWHFZ5H"
+        }
+      ],
+      "notes": [],
+      "citationKey": "degrootPlasmaSprayedCoatings1987",
+      "itemKey": "KS949JYK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KS949JYK"
+    },
+    {
+      "key": "AFWJUXJT",
+      "version": 147,
+      "itemType": "journalArticle",
+      "title": "Environmental anthropology: A historical reader",
+      "date": "2008",
+      "shortTitle": "Environmental anthropology",
+      "libraryCatalog": "Google Scholar",
+      "publicationTitle": "Dove, Michael R. and Carol Carpenter, eds",
+      "creators": [
+        {
+          "firstName": "Michael R.",
+          "lastName": "Dove",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carol",
+          "lastName": "Carpenter",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:47:25Z",
+      "dateModified": "2023-06-06T01:47:25Z",
+      "uri": "http://zotero.org/users/10326904/items/AFWJUXJT",
+      "itemID": 32,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "doveEnvironmentalAnthropologyHistorical2008",
+      "itemKey": "AFWJUXJT",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AFWJUXJT"
+    },
+    {
+      "key": "DYRD4DMJ",
+      "version": 185,
+      "itemType": "thesis",
+      "title": "ZX公司劳务派遣人员培训问题及对策研究",
+      "abstractNote": "当前,各种类型的用工方式层出不穷,劳务派遣作为一种可以降低用工风险、提高企业发展效益的灵活性用工方式,被大量、广泛采用。但长期以来,大多数企业受传统思维的影响,认为劳务派遣人员不是企业的正式员工,对其缺乏关注和重视,导致劳务派遣人员在实际工作中出现不同程度的问题,这就需要劳务派遣公司整合各类资源,为合作企业提供便捷、专业、全面的人力资源管理服务,尤其通过劳务派遣人员的实效培训,可以有效降低问题发生的概率。目前,针对劳务派遣人员的培训在市场上非常少见,能参考的同领域文献也非常少。本次主要以有多年行业经验的劳务派遣公司ZX作为研究对象,探讨如何打破传统的培训方法和思维,将具有企业适应性和岗位胜任力的人员派驻到用工单位。本文对ZX公司劳务派遣人员培训的实际情况进行调查,明确了解ZX公司员工培训体系和培训现状,具体运用文献研究法、问卷调查法等方式进行分析,得出ZX公司目前劳务派遣人员培训存在的实际问题,并依据ZX公司整体业务目标、用工单位需求、劳务派遣人员特征以及个人的诉求,提出相应的解决方案。科学、高效的提高劳务派遣人员的知识技能和工作适应性,更进一步促进ZX公司劳务派遣人员培训体系的完善,形成区别于其他劳务派遣公司的独有特色。本次的研究工作基于实际经验和理论分析,希望研究成果能切实改善ZX公司目前培训现状,提高培训工作的竞争性和合理性,同时为其他劳务派遣公司的人员培训提供借鉴和指导,以及对同领域的相关研究做出有参考价值贡献。",
+      "date": "2022",
+      "language": "zh-CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202301&filename=1022088762.nh&uniplatform=OVERSEA&v=5L_wG3LBxVTZLLat4AXDIzYYJVoczlFWCLJEMJ7lYyhCMQg8VX7JtCLsX266Qj1n",
+      "accessDate": "2023-06-06T01:31:36Z",
+      "extra": "DOI: 10.27159/d.cnki.ghzsu.2022.001210",
+      "thesisType": "硕士",
+      "university": "华中师范大学",
+      "creators": [
+        {
+          "name": "李沛纹",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "劳务派遣",
+          "type": 1
+        },
+        {
+          "tag": "培训管理",
+          "type": 1
+        },
+        {
+          "tag": "人力资源管理",
+          "type": 1
+        },
+        {
+          "tag": "human resource managemen",
+          "type": 1
+        },
+        {
+          "tag": "labor dispatch",
+          "type": 1
+        },
+        {
+          "tag": "training management",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:31:36Z",
+      "dateModified": "2023-06-19T13:37:11Z",
+      "uri": "http://zotero.org/users/10326904/items/DYRD4DMJ",
+      "itemID": 35,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "LiPeiWenZXGongSiLaoWuPaiQianRenYuanPeiXunWenTiJiDuiCeYanJiu2022",
+      "itemKey": "DYRD4DMJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DYRD4DMJ"
+    },
+    {
+      "key": "YC828JGP",
+      "version": 141,
+      "itemType": "journalArticle",
+      "title": "企业多维度业绩评价考核体系建设研究——以湖南省常德市湘能农电服务有限公司为例",
+      "abstractNote": "本项目结合湖南省市州农服公司经营现状，为规范和提升农电经营管理，着眼农服公司长远发展尤其是供电服务职工队伍建设成长，从管理上下功夫，精准定位，通过采取有效措施，实现农电管理提质增效，实现农电队伍建设强基固本。坚持指标为导向，“指标”“管理”两手抓，创新出台科学严谨、涵盖全面的评价考核办法，尝试将涵盖农电管理4个维度的“千分制”评价与专业管理8个维度的主业委托业务业绩考核评价办法同步运行、同步考核，构建成12个维度的“多维度”评价考核体系，逐级明确管理考核的重点以及管控的目标。以农服分公司为评价主体，充分发挥考评引领作用，规范市、县、供电所三个层级农电体系管理，激发农服分公司及其所属供电所争先创优意识，促使农服公司及其分公司经营管理能力稳步提升，依法合规运营意识更加牢固，农服公司管理、带动和培养供电服务职工队伍的能力明显增强。",
+      "date": "2022",
+      "language": "zh-CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=QYGG202206024&v=",
+      "accessDate": "2023-06-06T01:26:40Z",
+      "pages": "74-76",
+      "publicationTitle": "企业改革与管理",
+      "issue": "6",
+      "ISSN": "1007-1210",
+      "creators": [
+        {
+          "name": "李萍",
+          "creatorType": "author"
+        },
+        {
+          "name": "胡清华",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "多维度",
+          "type": 1
+        },
+        {
+          "tag": "供电服务队伍",
+          "type": 1
+        },
+        {
+          "tag": "农电管理",
+          "type": 1
+        },
+        {
+          "tag": "评价考核体系",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:26:45Z",
+      "dateModified": "2023-06-06T01:26:46Z",
+      "uri": "http://zotero.org/users/10326904/items/YC828JGP",
+      "itemID": 39,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text CAJ",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-06T01:26:46Z",
+          "dateModified": "2023-06-06T01:26:46Z",
+          "uri": "http://zotero.org/users/10326904/items/KQMLF948",
+          "path": "/Users/chengjunming/Zotero/storage/KQMLF948/李 和 胡 - 2022 - 企业多维度业绩评价考核体系建设研究——以湖南省常德市湘能农电服务有限公司为例",
+          "select": "zotero://select/library/items/KQMLF948"
+        }
+      ],
+      "notes": [],
+      "citationKey": "LiPingQiYeDuoWeiDuYeJiPingJieKaoHeTiXiJianSheYanJiuYiHuNanShengChangDeShiXiangNengNongDianFuWuYouXianGongSiWeiLi2022",
+      "itemKey": "YC828JGP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YC828JGP"
+    },
+    {
+      "key": "9K6JCHFR",
+      "version": 132,
+      "itemType": "journalArticle",
+      "title": "加强供电所管理 提升农电职工素质",
+      "date": "2016",
+      "libraryCatalog": "Google Scholar",
+      "pages": "59–60",
+      "publicationTitle": "农电管理",
+      "issue": "12",
+      "creators": [
+        {
+          "name": "刘红",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T00:59:50Z",
+      "dateModified": "2023-06-06T00:59:57Z",
+      "uri": "http://zotero.org/users/10326904/items/9K6JCHFR",
+      "itemID": 44,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "LiuHongJiaQiangGongDianSuoGuanLiTiShengNongDianZhiGongSuZhi2016",
+      "itemKey": "9K6JCHFR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9K6JCHFR"
+    },
+    {
+      "key": "X74MPGFA",
+      "version": 141,
+      "itemType": "journalArticle",
+      "title": "国网湖南省电力有限公司：双主体育人定向培养供电服务工匠",
+      "abstractNote": "<正>国网湖南省电力有限公司(以下简称\"国网湖南电力\")依托所属长沙电力职业技术学院,大力实施\"教育+就业\"扶贫,面向省内贫困地区和建档立卡贫困家庭考生定向招收、培养供电服务职工,推动\"一人就业、全家脱贫\",阻断贫困代际传递。2018年以来,国网湖南电力面向湖南省贫困县和建档立卡贫困户家庭定向招录937人,其中建档立卡贫困户考生664人。得到国资委和湖南省委高度肯定,并被国资委作为典型经验推广。",
+      "date": "2020",
+      "language": "zh-CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZGDI202011014&v=",
+      "accessDate": "2023-06-06T01:26:42Z",
+      "pages": "24-25",
+      "publicationTitle": "中国电力教育",
+      "issue": "11",
+      "ISSN": "1007-0079",
+      "creators": [
+        {
+          "name": "黎跃龙",
+          "creatorType": "author"
+        },
+        {
+          "name": "朱华",
+          "creatorType": "author"
+        },
+        {
+          "name": "冯兵",
+          "creatorType": "author"
+        },
+        {
+          "name": "魏梅芳",
+          "creatorType": "author"
+        },
+        {
+          "name": "曾旭华",
+          "creatorType": "author"
+        },
+        {
+          "name": "黄頔",
+          "creatorType": "author"
+        },
+        {
+          "name": "秦磊",
+          "creatorType": "author"
+        },
+        {
+          "name": "徐振宇",
+          "creatorType": "author"
+        },
+        {
+          "name": "王钊",
+          "creatorType": "author"
+        },
+        {
+          "name": "周欣",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "定向培养",
+          "type": 1
+        },
+        {
+          "tag": "供电服务",
+          "type": 1
+        },
+        {
+          "tag": "供电所",
+          "type": 1
+        },
+        {
+          "tag": "湖南省",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:26:45Z",
+      "dateModified": "2023-06-06T01:26:46Z",
+      "uri": "http://zotero.org/users/10326904/items/X74MPGFA",
+      "itemID": 38,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text CAJ",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-06T01:26:46Z",
+          "dateModified": "2023-06-06T01:26:46Z",
+          "uri": "http://zotero.org/users/10326904/items/2TYIC8DE",
+          "path": "/Users/chengjunming/Zotero/storage/2TYIC8DE/黎跃龙 等 - 2020 - 国网湖南省电力有限公司：双主体育人定向培养供电服务工匠",
+          "select": "zotero://select/library/items/2TYIC8DE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "LiYueLongGuoWangHuNanShengDianLiYouXianGongSiShuangZhuTiYuRenDingXiangPeiYangGongDianFuWuGongJiang2020",
+      "itemKey": "X74MPGFA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/X74MPGFA"
+    },
+    {
+      "key": "Z8D5ZDDZ",
+      "version": 156,
+      "itemType": "book",
+      "title": "The cultural history reader",
+      "date": "2014",
+      "libraryCatalog": "Google Scholar",
+      "publisher": "Routledge",
+      "creators": [
+        {
+          "firstName": "Peter",
+          "lastName": "McCaffery",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ben",
+          "lastName": "Marsden",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:49:15Z",
+      "dateModified": "2023-06-06T01:49:15Z",
+      "uri": "http://zotero.org/users/10326904/items/Z8D5ZDDZ",
+      "itemID": 30,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-06T01:49:31Z",
+          "dateModified": "2023-06-06T01:49:31Z",
+          "uri": "http://zotero.org/users/10326904/items/HNUUNWZ6",
+          "path": "/Users/chengjunming/Zotero/storage/HNUUNWZ6/the-cultural-history-reader.html",
+          "select": "zotero://select/library/items/HNUUNWZ6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "mccafferyCulturalHistoryReader2014",
+      "itemKey": "Z8D5ZDDZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Z8D5ZDDZ"
+    },
+    {
+      "key": "VU4JN6FM",
+      "version": 92,
+      "itemType": "note",
+      "note": "<div data-citation-items=\"%5B%5D\" data-schema-version=\"8\"><h1>注释<br/>(2022/12/17 下午11:45:58)</h1>\n<h3>部编版8年级道法上册【高清教材】.pdf</h3>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F10326904%2Fitems%2FWUQZW3QQ%22%2C%22annotationKey%22%3A%22HDTJ43QV%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%229%22%2C%22position%22%3A%7B%22pageIndex%22%3A8%2C%22rects%22%3A%5B%5B179.906%2C532.196%2C462.266%2C545.977%5D%2C%5B155.906%2C513.392%2C461.852%2C527.173%5D%2C%5B155.906%2C494.588%2C461.832%2C508.369%5D%2C%5B155.906%2C475.784%2C308.876%2C489.565%5D%5D%7D%7D\">“人们在社会交往中形成了各种社会关系。随着身体的 成长、智力的发展、能力的提高，我们的社会生活空间不断 延展，我们会与越来越多的人打交道，对社会生活的感受越 来越丰富，认识越来越深刻。”</span></p><p><img data-attachment-key=\"YHNLHYQ2\" width=\"685\" height=\"323\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F10326904%2Fitems%2FWUQZW3QQ%22%2C%22annotationKey%22%3A%22KDHB38B8%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2210%22%2C%22position%22%3A%7B%22pageIndex%22%3A9%2C%22rects%22%3A%5B%5B75.89199999999998%2C104.50099999999985%2C486.79703598739496%2C298.44766285714286%5D%5D%7D%7D\"/><br/> 我的第一篇截图</p><p> 这是我的道法课堂笔记</p><p><img data-attachment-key=\"JGJCZLCF\" width=\"678\" height=\"271\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F10326904%2Fitems%2FWUQZW3QQ%22%2C%22annotationKey%22%3A%228ADG4HXR%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2211%22%2C%22position%22%3A%7B%22pageIndex%22%3A10%2C%22rects%22%3A%5B%5B60.807%2C120.784%2C467.606%2C283.504%5D%5D%7D%7D\"/><br/></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F10326904%2Fitems%2FWUQZW3QQ%22%2C%22annotationKey%22%3A%228C8NSB7Y%22%2C%22color%22%3A%22%235fb236%22%2C%22pageLabel%22%3A%2213%22%2C%22position%22%3A%7B%22pageIndex%22%3A12%2C%22rects%22%3A%5B%5B180.378%2C652.727%2C462.894%2C666.508%5D%2C%5B156.378%2C633.923%2C462.319%2C647.704%5D%5D%7D%7D\">“青少年处于走向社会的关键时期，我们应该树立积极 的生活态度，关注社会，了解社会，服务社会，养成亲社会”</span></p><p> 考点！考点！考点！</p>\n</div>",
+      "tags": [],
+      "collections": [
+        "5DWGHUSZ"
+      ],
+      "relations": {},
+      "dateAdded": "2022-12-17T15:45:57Z",
+      "dateModified": "2022-12-17T15:45:58Z",
+      "uri": "http://zotero.org/users/10326904/items/VU4JN6FM",
+      "itemID": 17,
+      "itemKey": "VU4JN6FM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VU4JN6FM"
+    },
+    {
+      "key": "HALWWMU9",
+      "version": 193,
+      "itemType": "journalArticle",
+      "title": "Beidseitige Handtransplantation",
+      "date": "3/2002",
+      "language": "de",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "http://www.thieme-connect.de/DOI/DOI?10.1055/s-2002-32303",
+      "accessDate": "2023-06-20T01:33:23Z",
+      "volume": "34",
+      "pages": "75-83",
+      "publicationTitle": "Handchirurgie · Mikrochirurgie · Plastische Chirurgie",
+      "DOI": "10.1055/s-2002-32303",
+      "issue": "2",
+      "journalAbbreviation": "Handchir Mikrochir plast Chir",
+      "ISSN": "07221819, 14393980",
+      "creators": [
+        {
+          "firstName": "H.",
+          "lastName": "Piza-Katzer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "H.",
+          "lastName": "Hussl",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "M.",
+          "lastName": "Ninković",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "S.",
+          "lastName": "Pechlaner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "M.",
+          "lastName": "Gabl",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "M.",
+          "lastName": "Ninković",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "S.",
+          "lastName": "Schneeberger",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "R.",
+          "lastName": "Margreiter",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-20T01:33:23Z",
+      "dateModified": "2023-06-20T01:33:23Z",
+      "uri": "http://zotero.org/users/10326904/items/HALWWMU9",
+      "itemID": 158,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Piza-Katzer 等 - 2002 - Beidseitige Handtransplantation.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-20T01:33:19Z",
+          "dateModified": "2023-06-20T01:33:24Z",
+          "uri": "http://zotero.org/users/10326904/items/LYHA9HM2",
+          "path": "/Users/chengjunming/Zotero/storage/LYHA9HM2/Piza-Katzer 等 - 2002 - Beidseitige Handtransplantation.pdf",
+          "select": "zotero://select/library/items/LYHA9HM2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "piza-katzerBeidseitigeHandtransplantation2002",
+      "itemKey": "HALWWMU9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HALWWMU9"
+    },
+    {
+      "key": "XB4VECFT",
+      "version": 133,
+      "itemType": "journalArticle",
+      "title": "影响供电企业职工培训的因素分析及对策",
+      "date": "2018",
+      "libraryCatalog": "Google Scholar",
+      "volume": "25",
+      "publicationTitle": "收藏",
+      "creators": [
+        {
+          "name": "汤薇",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:01:37Z",
+      "dateModified": "2023-06-06T01:01:37Z",
+      "uri": "http://zotero.org/users/10326904/items/XB4VECFT",
+      "itemID": 41,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-06T01:01:42Z",
+          "dateModified": "2023-06-06T01:01:42Z",
+          "uri": "http://zotero.org/users/10326904/items/UAVICXCW",
+          "path": "/Users/chengjunming/Zotero/storage/UAVICXCW/汤薇 - 2018 - 影响供电企业职工培训的因素分析及对策.pdf",
+          "select": "zotero://select/library/items/UAVICXCW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "TangWeiYingXiangGongDianQiYeZhiGongPeiXunDeYinSuFenXiJiDuiCe2018",
+      "itemKey": "XB4VECFT",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XB4VECFT"
+    },
+    {
+      "key": "TJY3HNJH",
+      "version": 286,
+      "itemType": "journalArticle",
+      "title": "人心正反是沧桑——评《心路沧桑》",
+      "date": "2004",
+      "language": "中文;",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2004&filename=DDWT200403028&v=",
+      "extra": "<CSSCI>",
+      "pages": "86-87",
+      "publicationTitle": "当代文坛",
+      "DOI": "10.19290/j.cnki.51-1076/i.2004.03.029",
+      "issue": "3",
+      "ISSN": "1006-0820",
+      "creators": [
+        {
+          "name": "王火",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "《心路沧桑》",
+          "type": 1
+        },
+        {
+          "tag": "共产党",
+          "type": 1
+        },
+        {
+          "tag": "国民党",
+          "type": 1
+        },
+        {
+          "tag": "中国人民解放军",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-06-28T04:46:34Z",
+      "dateModified": "2023-06-28T16:00:31Z",
+      "uri": "http://zotero.org/users/10326904/items/TJY3HNJH",
+      "itemID": 168,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "心路滄桑.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-28T04:46:32Z",
+          "dateModified": "2023-06-28T04:46:35Z",
+          "uri": "http://zotero.org/users/10326904/items/YXNKNE79",
+          "path": "/Users/chengjunming/Zotero/storage/YXNKNE79/心路滄桑.pdf",
+          "select": "zotero://select/library/items/YXNKNE79"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wanghuoRenxinzhengfanshicangsangPingXinlucangsang2004",
+      "itemKey": "TJY3HNJH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TJY3HNJH"
+    },
+    {
+      "key": "R2RTGTA2",
+      "version": 144,
+      "itemType": "book",
+      "title": "History of the Goths",
+      "date": "1988",
+      "libraryCatalog": "Google Scholar",
+      "publisher": "Univ of California Press",
+      "creators": [
+        {
+          "firstName": "Herwig",
+          "lastName": "Wolfram",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:45:31Z",
+      "dateModified": "2023-06-06T01:45:31Z",
+      "uri": "http://zotero.org/users/10326904/items/R2RTGTA2",
+      "itemID": 34,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "wolframHistoryGoths1988",
+      "itemKey": "R2RTGTA2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/R2RTGTA2"
+    },
+    {
+      "key": "7X42HVXU",
+      "version": 147,
+      "itemType": "journalArticle",
+      "title": "The historical reader of Plato's Protagoras1",
+      "date": "1998",
+      "libraryCatalog": "Google Scholar",
+      "extra": "Publisher: Cambridge University Press",
+      "volume": "48",
+      "pages": "126–133",
+      "publicationTitle": "The Classical Quarterly",
+      "issue": "1",
+      "creators": [
+        {
+          "firstName": "David",
+          "lastName": "Wolfsdorf",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:47:25Z",
+      "dateModified": "2023-06-06T01:47:25Z",
+      "uri": "http://zotero.org/users/10326904/items/7X42HVXU",
+      "itemID": 31,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "wolfsdorfHistoricalReaderPlato1998",
+      "itemKey": "7X42HVXU",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7X42HVXU"
+    },
+    {
+      "key": "4VFHKTF9",
+      "version": 172,
+      "itemType": "webpage",
+      "title": "职工队伍建设现状调研 - Google 搜索",
+      "url": "https://www.google.de/search?q=%E8%81%8C%E5%B7%A5%E9%98%9F%E4%BC%8D%E5%BB%BA%E8%AE%BE%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94&btnK=Google+%E6%90%9C%E7%B4%A2&source=hp&ei=BPaBZKPyNLOD0PEP5ois0A4&iflsig=AOEireoAAAAAZIIEFDVCxBdadffKo1YurHmdfi54JkXC",
+      "accessDate": "2023-06-08T16:07:50Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-08T16:07:50Z",
+      "dateModified": "2023-06-08T16:07:58Z",
+      "uri": "http://zotero.org/users/10326904/items/4VFHKTF9",
+      "itemID": 28,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "职工队伍建设现状调研 - Google 搜索",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-08T16:08:05Z",
+          "dateModified": "2023-06-08T16:08:05Z",
+          "uri": "http://zotero.org/users/10326904/items/8HSXD8HT",
+          "path": "/Users/chengjunming/Zotero/storage/8HSXD8HT/search.html",
+          "select": "zotero://select/library/items/8HSXD8HT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ZhiGongDuiWuJianSheXianZhuangDiaoYanGoogleSouSuo",
+      "itemKey": "4VFHKTF9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4VFHKTF9"
+    },
+    {
+      "key": "MW6E5UK7",
+      "version": 170,
+      "itemType": "book",
+      "title": "中国护士从业状况调查报告",
+      "abstractNote": "Ben shu jie shao le hu shi cong ye zhuang kuang zong ti miao shu, Gong zuo ya li he shen xin jian kang, Gong zuo man yi du he li zhi yi xiang, Hu huan guan xi, Zhuan ye su yang yu si xiang dao de, Hu li guan li yu cong ye huan jing deng nei rong.",
+      "date": "2013",
+      "language": "zh",
+      "libraryCatalog": "Google Books",
+      "extra": "Google-Books-ID: T0GBoAEACAAJ",
+      "publisher": "中国科学技术出版社",
+      "ISBN": "978-7-5046-6301-6",
+      "numPages": "283",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-08T01:34:59Z",
+      "dateModified": "2023-06-08T01:34:59Z",
+      "uri": "http://zotero.org/users/10326904/items/MW6E5UK7",
+      "itemID": 29,
+      "attachments": [
+        {
+          "key": "RCXW956B",
+          "version": 170,
+          "itemType": "attachment",
+          "title": "Google Books Link",
+          "url": "https://books.google.co.uk/books?id=T0GBoAEACAAJ",
+          "accessDate": "2023-06-08T01:34:59Z",
+          "parentItem": "MW6E5UK7",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-06-08T01:34:59Z",
+          "dateModified": "2023-06-08T01:34:59Z",
+          "uri": "http://zotero.org/users/10326904/items/RCXW956B"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Zhongguohushicongyezhuangkuangtiaochabaogao2013",
+      "itemKey": "MW6E5UK7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MW6E5UK7"
+    },
+    {
+      "key": "6XPIVKTG",
+      "version": 141,
+      "itemType": "journalArticle",
+      "title": "县级农服公司优质企业平台建设",
+      "abstractNote": "<正>国网湖南电力衡山县农电服务公司通过对人力资源、财务预算、市场化工程业务进行集约化管理,全面提升县级农电服务公司管理水平,全面提高供电服务员工技能及服务水平,管理并培训出一批扎根农村、熟悉农业、服务农民的技能型农电员工队伍,有效留住人才,服务\"三农\"。",
+      "date": "2019",
+      "language": "zh-CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=ZGDQ201935017&v=",
+      "accessDate": "2023-06-06T01:26:45Z",
+      "pages": "38-39",
+      "publicationTitle": "中国电力企业管理",
+      "issue": "35",
+      "ISSN": "1007-3361",
+      "creators": [
+        {
+          "name": "周玉美",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:26:45Z",
+      "dateModified": "2023-06-06T01:26:46Z",
+      "uri": "http://zotero.org/users/10326904/items/6XPIVKTG",
+      "itemID": 37,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text CAJ",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-06T01:26:47Z",
+          "dateModified": "2023-06-06T01:26:47Z",
+          "uri": "http://zotero.org/users/10326904/items/BCHW4YT8",
+          "path": "/Users/chengjunming/Zotero/storage/BCHW4YT8/周玉美 - 2019 - 县级农服公司优质企业平台建设",
+          "select": "zotero://select/library/items/BCHW4YT8"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ZhouYuMeiXianJiNongFuGongSiYouZhiQiYePingTaiJianShe2019",
+      "itemKey": "6XPIVKTG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6XPIVKTG"
+    },
+    {
+      "key": "XCNMKIQ3",
+      "version": 137,
+      "itemType": "webpage",
+      "title": "Zotero使用记录----3 茉莉花Jasminum插件的下载及功能_努力入门科研的小李的博客-CSDN博客",
+      "url": "https://blog.csdn.net/weixin_49818157/article/details/125261306",
+      "accessDate": "2023-06-06T01:16:22Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-06T01:16:22Z",
+      "dateModified": "2023-06-06T01:16:22Z",
+      "uri": "http://zotero.org/users/10326904/items/XCNMKIQ3",
+      "itemID": 40,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Zotero使用记录----3 茉莉花Jasminum插件的下载及功能_努力入门科研的小李的博客-CSDN博客",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-06T01:16:34Z",
+          "dateModified": "2023-06-06T01:16:34Z",
+          "uri": "http://zotero.org/users/10326904/items/MGQUHLTW",
+          "path": "/Users/chengjunming/Zotero/storage/MGQUHLTW/125261306.html",
+          "select": "zotero://select/library/items/MGQUHLTW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ZoteroShiYongJiLuMoLiHuaJasminumChaJianDeXiaZaiJiGongNengNuLiRuMenKeYanDeXiaoLiDeBoKeCSDNBoKe",
+      "itemKey": "XCNMKIQ3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XCNMKIQ3"
+    }
+  ]
+}

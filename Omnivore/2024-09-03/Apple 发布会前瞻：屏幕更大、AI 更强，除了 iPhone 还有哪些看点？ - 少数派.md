@@ -1,0 +1,148 @@
+---
+id: 5bb9086c-1d9b-4276-b102-5fdd09f71e72
+title: |
+  Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？ - 少数派
+author: |
+  Vanilla
+tags:
+  - RSS
+date_saved: 2024-09-03 15:31:51
+date_published: 2024-09-03 15:31:51
+---
+
+# Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？ - 少数派
+[[Omnivore]]
+
+[Read on Omnivore](https://omnivore.app/me/apple-ai-i-phone-191b8243e01)
+[Read Original](https://sspai.com/post/91989)
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sv-DHEBJQ8VjbUJxj2yHxUF_GN3yvE4zqVV-kZpMvIKo/https://cdnfile.sspai.com/2024/9/3/article/440f2210-d6b4-c0b5-8351-de1ed1506668.png?imageMogr2/auto-orient/thumbnail/!750x750r/gravity/center/crop/750x750/format/webp/ignore-error/1)
+
+Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？
+
+上周，Apple 发出了 9 月发布会的官方邀请函，确定在北京时间 9 月 10 日凌晨一点召开一年一度的秋季发布会。与往年一样，9 月份的这次发布会基本上可以确定会有 iPhone 和 Apple Watch 的常规升级，同时也有很大可能会有 AirPods 的新一代推出。
+
+近年来，Apple 新品发布前的爆料也朝着越少越准的方向发展，现阶段掌握的新品信息已经到了一个相当高的爆料程度。既然如此，就让我们一起来「先睹为快」吧，看看本次 Apple 发布会将会给我们带来多少惊喜。
+
+我们也将于深圳举办 Apple 线下发布会观影活动，期待你来与我们见面，一起聊聊新品。
+
+\> [线下报名](https://sspai.com/item/427)
+
+### 外观
+
+自 Apple 于 2020 年发布 iPhone 12 以来，iPhone 的屏幕尺寸就一直没有发生过变化。今年，根据 [Unknownz21](https://sspai.com/link?target=https%3A%2F%2Ftwitter.com%2FURedditor) 的爆料，Apple 将为 iPhone 16 Pro 配备 6.3 英寸的屏幕，为 iPhone 16 Pro Max 配备 6.9 英寸的屏幕，比上一代分别增加了 0.2 英寸。不过，iPhone 16 和 iPhone 16 Plus 将延续上一代的屏幕尺寸设计，分别保持在 6.1 英寸和 6.7 英寸。
+
+如果你对 iPhone 16 的详细尺寸和重量感兴趣，MacRumors 甚至已经准备了一份表格，上面清晰地展示了 iPhone 16 Pro 系列和上一代的对比情况。
+
+| | iPhone 16 Pro | iPhone 15 Pro    | iPhone 16 Pro Max | iPhone 15 Pro Max |                  |
+| --------------- | ---------------- | ----------------- | ----------------- | ---------------- |
+| 厚度              | 8.25 mm          | 8.25 mm           | 8.26 mm           | 8.25 mm          |
+| 高度              | 149.6 mm         | 146.6 mm          | 163.0 mm          | 159.9 mm         |
+| 宽度              | 71.45 mm         | 70.60 mm          | 77.58 mm          | 76.70 mm         |
+| 屏幕              | 6.3" (159.31 mm) | 6.1" (155.38 mm)  | 6.9" (174.06 mm)  | 6.7" (169.98 mm) |
+| 边框              | 1.2 mm           | 1.71 mm           | 1.15 mm           | 1.55 mm          |
+| 重量              | 194 grams        | 187 grams         | 225 grams         | 221 grams        |
+
+从 [Sonny Dickson](https://sspai.com/link?target=https%3A%2F%2Fwww.macrumors.com%2Fguide%2Fsonny-dickson%2F) 泄露的机模照片来看，我们可以更加直观地看到 iPhone 16 全系列的尺寸。值得注意的是，由于 Apple Vision 在 Apple 生态中的地位越来越重要，Apple 为了让 iPhone 可以直接拍摄与之相配套的空间照片或者空间视频，有很大可能会改变 iPhone 16 普通版的镜头模组排列方式，由原来的对角排列更换为垂直排列。
+
+![KGlNbYasGoaFpLxJRS0c1skMnVg](https://proxy-prod.omnivore-image-cache.app/0x0,sdjXPJIn-AI0Al5Cn6lwnQNnkta27aUuxbQlQ9tBQhuw/https://cdnfile.sspai.com/editor/u_/crbas2db34tada5su98g.png?imageView2/2/format/webp)
+
+在 iPhone 15 机型上，Apple 专门为 iPhone 15 Pro 系列设计了物理的操作按钮，可以用来一键启动静音模式、手电筒、识别音乐、翻译、放大器、快捷指令等。在 iPhone 16 机型上，Apple 决定将操作按钮下放到普通数字系列，这样一来就变成了全系标配。除了操作按钮，据传 Apple 还将在 iPhone 16 系列上再增加一个物理的相机快门按键，以此来优化拍照时的拍摄体验。
+
+![KWHEbLNHCoaoT3xoPYXc8csfnuc](https://proxy-prod.omnivore-image-cache.app/0x0,sX1hOzTZiXj6T7213W3T2b3Kg73G0XjkM5xGkqMeBmrg/https://cdnfile.sspai.com/editor/u_/crbas2lb34tadampvj80.png?imageView2/2/format/webp)
+
+配色方面，iPhone 16 和 iPhone 16 Plus 应该会延续往年的配色方案，而 iPhone 16 Pro 系列会继续在钛合金配色上做文章，在去年原色钛金属的基础上推出「沙漠钛金属」和「灰色钛金属」两种新配色。
+
+![CMKjbfmU6otMAgxX1hicTkq8ntc](https://proxy-prod.omnivore-image-cache.app/0x0,svyr5ggAEzMXDsXUBPEiIEcm9ChIrwEqLXNo5OPeAg60/https://cdnfile.sspai.com/editor/u_/crbas2tb34tadacefo80.png?imageView2/2/format/webp)
+
+### 屏幕与摄像头
+
+今年新款 iPhone 在影像方面的升级主要体现在硬件方面。
+
+首先，iPhone 16 Pro 系列将配备 4800 万像素、f2.2 光圈的超广角镜头，可以带来更好的成像素质，特别是在暗光环境下的表现会有一个质的提升。
+
+其次，据传 iPhone 16 Pro 的长焦镜头也将从上一代的 3 倍升级到 5 倍，而 iPhone 16 Pro Max 可能会率先配备超远摄潜望式摄像头，以大幅提升光学变焦能力。主摄方面，iPhone 16 Pro 与上一代基本一致，而 iPhone 16 Pro Max 可能会配备 1/1.14 英寸底的索尼 IMX-903 传感器。
+
+![BXbtbJTwpo2zk4xNOjlcpwqLnxf](https://proxy-prod.omnivore-image-cache.app/0x0,snD7p80P8ZOOhlDtFSMvIhfgTv7ru4IJj5gvqlDDO4Ak/https://cdnfile.sspai.com/editor/u_/crbas3db34tadampvj8g.png?imageView2/2/format/webp)
+
+图片来源：MacRumors
+
+作为输出终端，屏幕的提升对影像能力也有明显的影响。根据微博用户 [Instant Digital](https://sspai.com/link?target=https%3A%2F%2Fwww.macrumors.com%2Fguide%2Finstant-digital%2F) 的爆料，Apple 将成为第一个采用三星 M14 OLED 面板的手机厂商，这款最新的 OLED 面板可以在 iPhone 16 Pro 系列上带来 1200 尼特的 SDR 亮度，比上一代高出 20% 以上。
+
+![VZMPboi2bonp6yxOHE7cpsZXnVg](https://proxy-prod.omnivore-image-cache.app/0x0,sQxI51BtNzMMlMfpxQhZubuBtPgJEYkCsgbszV20Cwj0/https://cdnfile.sspai.com/editor/u_/crbas3lb34tadampvj90.png?imageView2/2/format/webp)
+
+图片来源：MacRumors
+
+### 性能与续航
+
+与往年一样，新款 iPhone 将搭载最新的 A 系列处理器。根据一位熟悉 Apple 供应链的分析师 Jeff Pu 的爆料，今年 iPhone 16 将使用 A18 仿生芯片，而其基于台积电「N3E」增强型 3nm 工艺打造。iPhone 16 Pro 系列则更进一步，将配备更加强大的 A18 Pro 仿生芯片。至于实际性能表现如何，还需等待新品实际发售后的测试。
+
+除了芯片上的差异，Jeff Pu 还爆料称 iPhone 16 Pro 有可能会使用高通的 Snapdragon X75 基带，以此来获得更快、更稳定的 5G 网络连接。
+
+知名的 Apple 分析师郭明錤则预测 Apple 将会在 iPhone 16 Pro 系列上采用下一代 Wi-Fi 7 技术，可以提供 30Gb/s - 40Gb/s 的无线网络连接速度。
+
+续航方面，根据 [RGcloudS](https://sspai.com/link?target=https%3A%2F%2Ftwitter.com%2FRGcloudS%2Fstatus%2F1679555020512178176%3Fs%3D20) 的爆料，Apple 将在 iPhone 16 系列上采用堆叠电池技术，可以显著提升电池的容量和寿命，与此同时还将支持 40W 有线充电功率和 20W MagSafe 无线充电功率。具体的电池参数可以参照 MacRumors 制作的下表：
+
+| | iPhone 15 系列 | iPhone 16 系列 | 提升表现      |      |
+| -------------- | ------------ | --------- | ---- |
+| 标准版            | 3,349 mAh    | 3,561 mAh | +6%  |
+| Plus           | 4,383 mAh    | 4,006 mAh | \-9% |
+| Pro            | 3,274 mAh    | 3,355 mAh | +2.5 |
+| Pro Max        | 4,422 mAh    | 4,676 mAh | +5%  |
+
+### AI 功能
+
+本应成为本次发布会主角的 AI 为什么要放在最后说呢？因为大陆用户很有可能与这个历史级别的新功能无缘。话虽如此，我们也简单地来看一下 AI 在 iPhone 16 上会有什么表现。
+
+在今年的 WWDC 上，Apple 通过 iOS 18 系统发布了全新的 Siri 功能，它使用了来自 OpenAI 的大语言模型，目前已经可以在 iPhone 15 Pro 机型上通过 iOS 18 测试版本先行体验。不过，根据 Blommberg 的知名记者 Mark Gurman 的消息，Apple 正在为 iOS 18 开发一款基于生成式 AI 技术的新版 Siri，且目前 Apple 尚未决定将这项功能限制在设备本地运行还是通过云端运行。而另一位爆料者 [@Tech\_Reve](https://sspai.com/link?target=https%3A%2F%2Fx.com%2FTech%5FReve%2Fstatus%2F1722418466647625999%3Fs%3D20) 宣称现有的设备可以通过 iOS 18 更新获得云端的 AI 功能，而本地运行的 AI 功能将限制在新款 iPhone 16 系列上。
+
+郭明錤则爆料了一个硬件上关于 AI 的消息，他称 Apple 将在新款 iPhone 上提升麦克风的性能，通过更好的信噪比来提高 AI 生成内容的质量，因为 Siri 非常依赖声音输入处理这个环节，更好的音频输入质量可以有效改善获取的信息质量。
+
+![TuD7bI2LZo1FDLxLm30cjBATnqc](https://proxy-prod.omnivore-image-cache.app/0x0,sOkJUAli7ge_2CakBmLHqGlf6Uu2lJe_pbEa3Lo4dYjg/https://cdnfile.sspai.com/editor/u_/crbas45b34tadacefo8g.png?imageView2/2/format/webp)
+
+图片来源：MacRumors
+
+## Apple Watch
+
+今年的新款 Apple Watch 应该是一次常规升级。根据 Mark Gurman 的说法，Apple Watch 10 主要的变化是在厚度上会比上一代更薄一点，而外观上基本没有变化。除此之外，高血压和睡眠呼吸暂停检测功能也还在研究测试中，目前还无法证明会在今年的 Apple Watch 新品上实装。至于传言中的 Apple Watch X，那就需要期待一下在 9 月的发布会上有没有「One more thing」了。
+
+![SFuFbSTUJov4srxmScEcLAMWnxg](https://proxy-prod.omnivore-image-cache.app/0x0,sxAd2F3pzd5t5a8brKjkfCSzYmjKYJf2sGFaQiwTQ9no/https://cdnfile.sspai.com/editor/u_/crbas4db34tadampvj9g.png?imageView2/2/format/webp)
+
+图片来源：MacRumors
+
+郭明錤对 Apple Watch 的预测与 Mark Gurman 略有不同，除了厚度上的减少，他认为新款 Apple Watch 同时也会增加屏幕尺寸，而表壳尺寸将同步扩大为 45 mm 和 49 mm。
+
+![T6QtbbbgOoDlwzxsNudcPuJNnbh](https://proxy-prod.omnivore-image-cache.app/0x0,s_Iv4U18nGlX3R62RrT5ZP_e4z5k16reDYbI7mK4vG5U/https://cdnfile.sspai.com/editor/u_/crbas4lb34tadampvja0.png?imageView2/2/format/webp)
+
+图片来源：MacRumors
+
+除了常规款式的 Apple Watch，Apple Watch SE 和 Apple Watch Ultra 预计也将会在下个月的发布会上获得常规升级，极大概率也是在表壳厚度、芯片等方面做文章。
+
+## AirPods
+
+Apple 最近两年对 AirPods 这条产品线的更新非常勤快，目前在售的有 AirPods 第二代、AirPods 第三代、AirPods Pro 第二代和 AirPods Max，代表了 4 个不同的产品系列。
+
+9 月发布会上，Apple 预计将推出 AirPods 第四代，Mark Gurman 预测第四代将有两款不同的产品，分别用来取代 AirPods 第二代和第三代，区别是较贵的那一款将会配备主动降噪功能。
+
+与第二代和第三代相比，第四代 AirPods 将会获得音质方面的升级，同时耳机柄也会统一到更短的长度，与 AirPods Pro 的外观更加接近。
+
+![WWxwbAxGho45E2xTGSsc4GBqngd](https://proxy-prod.omnivore-image-cache.app/0x0,sxN-sHbF1tGhJaPjovl2e7XrT6YRI9ZHF_ZYQNHUXDNs/https://cdnfile.sspai.com/editor/u_/crbas55b34tadatlp3r0.png?imageView2/2/format/webp)
+
+图片来源：MacRumors
+
+至于 AirPods Max，多年之后终于可能会推出新款了，不过 Apple 应该不会给它再加什么新功能了，毕竟第一代就已经堆料到了极致，新款可能只是将 Lightning 充电口改成 USB-C，然后再出几个新款配色。
+
+## 其它
+
+9 月份的发布会很少会发布新款 Mac 和 iPad，不过可能性还是有的，就让我们一起看看到时候哪些预言会成真吧。
+
+首先是 Mac，Mark Gurman 爆料称 Apple 已经在准备 M4 芯片的新款 Mac 电脑，其中 3 款 M4 芯片配备了 10 核心 CPU/GPUs，1 款配备了 8 核心 CPU/GPUs。今年晚些时候，配备 M4 芯片的 iMac、MacBook Pro 和 Mac mini 将会发售，而配备 M4 芯片的 MacBook Air、Mac Studio 和 Mac Pro 要等到明年才会发售。
+
+其次是 iPad，iPad Pro 已经在今年推出了搭载 M4 芯片的新款，而 iPad mini 又有多年没有更新了，今年 iPad mini 7 有望与大家见面，外观上没有变化，应该只会是芯片上的常规升级。
+
+最后是 Apple TV，搭载 A16 芯片的 Apple TV 4K 没有在上半年如期发布，这次秋季发布会可能会等到新款 Apple TV 的发布。
+
+以上就是本次发布会三款主要新品的前瞻预测了，如果你还了解到了一些更多的新品信息，欢迎在评论区补充。同时，也欢迎大家在评论区交流你对本次发布会最感兴趣的新品或者新功能是什么。
+
+© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。
+

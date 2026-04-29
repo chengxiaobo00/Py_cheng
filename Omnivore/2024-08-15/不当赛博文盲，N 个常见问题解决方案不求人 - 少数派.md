@@ -1,0 +1,264 @@
+---
+id: 6ad26a44-e4e6-4d72-ae96-f306ebdc0d74
+title: |
+  不当赛博文盲，N 个常见问题解决方案不求人 - 少数派
+author: |
+  Voyager_1
+tags:
+  - RSS
+date_saved: 2024-08-15 15:00:00
+date_published: 2024-08-15 15:00:00
+---
+
+# 不当赛博文盲，N 个常见问题解决方案不求人 - 少数派
+[[Omnivore]]
+
+[Read on Omnivore](https://omnivore.app/me/n-191551fac0c)
+[Read Original](https://sspai.com/post/91469)
+
+## 引言
+
+如今的计算机和手机已经成为人们日常生活中不可或缺的一部分，说是「赛博义肢」也不过分。生活中借助手机购物、聊天、娱乐的场景数不胜数，手机早已脱离通话专属设备的定义范畴。坐到电脑前，我们撰写文档、统计表格、设计开发等……有了这两样设备，我们几乎可以做成一切事情，这是科技和时代发展赋予给每个人的福利。
+
+一切都很美妙，每个人好像都自然而然地熟练掌握了运用现代设备的能力，然而事实却不尽然……
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sRd32aAdbo6mRImyaut7HwcfHWHaTcaaGbXpMzKO_OiY/https://cdnfile.sspai.com/2024/08/14/article/cf5df076e46a32a36454004040fbeb08.jpeg?imageView2/2/format/webp)
+
+大量的赛博文盲出现在各大视频网站和社交媒体的评论区，他们提出比小白还小白的问题，为自己的无知而大发脾气。他们出生和成长在新时代，却缺乏对新时代生产力工具的基本认知，甚至把无知当作「高傲」的底气。在互联网上冲浪时，我们经常可以看到一些小白问题和对此吐槽的评论，甚至一些显而易见的错误知识被反复「科普」。
+
+在少数派的一次赛博文盲现象分享帖中，评论区罗列了如今随处可见的赛博文盲现象。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sfaK84uzddulaWGHgvYbhXKhh_1xOjKMC2egtmkv1FCg/https://cdnfile.sspai.com/2024/08/14/50ce2e71dd9a16a3c5f098351495830e.png?imageView2/2/format/webp) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sCrxnAlyLg3_sidiqtZVyuODyeF075fxzsFLbRLVtj64/https://cdnfile.sspai.com/2024/08/14/3f1691f4bca8b077611b7ea6a2f80722.png?imageView2/2/format/webp) 
+
+这样的现象屡见不鲜，一方面归咎于互联网的普及并没有照顾到一部分接受能力较差的人群，他们可能是我们身边本就没那么容易玩得转手机的长辈们，也可能是天生对新事物没那么感冒的同龄人。另一方面，如今学生们的信息教育课逐渐被文化课吞没，新时代的年轻人本就不多的电脑知识学习机会也被剥夺了。
+
+基于以上情况，本文想从解压、下载、软件等几个计算机最基础的概念出发，通过介绍和解答互联网上高频的问题，普及一些计算机的基本操作技巧，期待能帮助有需要的人。基础知识的普及永远需要，也永远不算晚。更长远来看，也许人类世界发展到未来的某一天，我们也会变得「文盲」，希望那时候也有人照顾到我们。
+
+## 系统问题就是这么简单
+
+### Windows 和 macOS 如何重装系统
+
+由于对分区的认知并不明确，在刚接触电脑的时候，我们常常会在下载安装软件和游戏的过程中一路下一步，只为一睹安装好的内容。下载绿色软件道阻且长，如果不像上文科普的作者一样踩几个坑很难掌握中文互联网的下载技巧，我们的电脑很大概率被上文提到的各种管家软件和杀毒软件搅得天翻地覆，以上两种情形都会促使我们萌生重装系统的冲动。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sGkqCSB7457ppTaXjbcrzq4R5--7xG4l8NUxmuXTJED4/https://cdnfile.sspai.com/2024/08/14/article/d07e3e21c6ae5410e83bc19b4afd073d.png?imageView2/2/format/webp)
+
+图源：[B 站](https://www.bilibili.com/video/BV1724y1q7NQ/?spm%5Fid%5Ffrom=333.1007.top%5Fright%5Fbar%5Fwindow%5Fhistory.content.click)
+
+重装系统本身并不是很难的技能，但令人匪夷所思的是，多次重装系统后依然坚持把文件直接存放到桌面的行为。2024 年了，我们依然在有些人的桌面上看到他们所有的 Word、Excel 和 PPT 文件，如果问对方为什么都堆在桌面，他们会一边说这样找得很快，一边艰难寻找和打开第 N 个表格。
+
+如果是下载的内容，假设没有明确的主题，临时存放到下载文件夹里后续再另存到非系统盘里清空对应下载文件才是正道。这是最基本的文件管理姿势，不需要任何技巧，只需要随手养成习惯。
+
+回到重装系统的正题，似乎从个人电脑诞生起，《xxxx 年如何重装系统》的内容就从来没有停止过，Windows 和 macOS 均不例外。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sfrx-rCgiP0jG3wFHn0jZpLTL7Jud39LK0_O8ypmZFW0/https://cdnfile.sspai.com/2024/08/14/article/fca2285071906952eddf1415457277da.png?imageView2/2/format/webp)
+
+教学内容只能教会肯学的人，学不会重装系统的人也可以用任何其他方式重装成功，甚至花点钱也无可厚非。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sVC-rOO7925TvMDQUDJ-1zxgsLLVVEW1Xq2mOH8FfWnA/https://cdnfile.sspai.com/2024/08/14/article/7c1ed9b8a6accba791069afed54c2a99.png?imageView2/2/format/webp)
+
+但在重装前，我想建议你试试恢复模式和恢复出厂设置操作，可能不需要重装就能让电脑恢复如初。
+
+保留个人数据，只重装系统：
+
+* 进入 [macOS 恢复模式](https://support.apple.com/zh-cn/guide/mac-help/mchl82829c17/mac)（按住电源按钮直到看到启动选项窗口，选择「选项」，然后点击「继续」），按照提示完成安装；
+* Windows 打开「设置 > 更新和安全 > 恢复」，然后选择「重置此电脑」，可以选择「保留我的文件」选项来进行系统重置，这将保留个人文件但移除所有应用程序和设置。
+
+不保留数据，恢复出厂设置：
+
+* [macOS](https://support.apple.com/zh-cn/102664#:~:text=%E4%BB%8E%E5%B1%8F%E5%B9%95%E8%A7%92%E8%90%BD%E7%9A%84%E8%8B%B9%E6%9E%9C,%E6%8E%89%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%E5%92%8C%E8%AE%BE%E7%BD%AE%E2%80%9D%E3%80%82) 从屏幕角落的苹果菜单  中，选取「系统设置」，点按边栏中的「通用」，点按右侧的「传输或还原」，点按「抹掉所有内容和设置」；
+* Windows 恢复出厂设置功能，打开「设置 > 更新和安全 > 恢复」，选择 「重置此电脑」，选择不保留个人文件重置设备，即可恢复出厂设置。
+* 如果你的数据本身就不多，一个固态硬盘或者 U 盘就都存完了（大多数人都是如此），那么选择系统本身的重装当前系统功能或者备份完恢复出厂设置是最简单的效果。
+
+当然，在无法正常恢复的时候，Windows 和 macOS 都可以通过外部介质重装系统，Windows 可以制作 U 盘启动，macOS 最方便的就是前往苹果直营店交给店员操作。前者已经不属于小白的范畴，后者只要有腿就行，二者对于赛博文盲来说都不是问题。
+
+**关联阅读：**《[疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)》
+
+### 软件真的不能装在 C 盘吗
+
+根据我多年的使用经验来看，我还是鼓励大家直接把软件安装在 C 盘里。当然这里还是要分情况讨论的。
+
+如果你有良好的备份习惯、或者有用 OneDrive 这样的云存储的话，那么最好不要给硬盘分区，直接用一整块硬盘当 C 盘，既不用短时间内担心安装的软件把 C 盘完全用完，也不用担心到底应该把文件放在哪个区里。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sN2v8VnmJyjuo979e3N80BUqzSysScw_ZhRlZyKybYlI/https://cdnfile.sspai.com/2024/08/14/63d5dccad8c2c0f2f4878f4b277c2a8a.jpeg?imageView2/2/format/webp)
+
+搭配 Windows 11 开始的「主文件夹」和云存储工具，你应该就能把文件归纳得井井有条了。哪怕是电脑出了问题也可以随时重装，重装完毕以后直接从云存储把重要文件给同步到本地就好了。
+
+**关联阅读：**《[从这些技巧与工具入手，在 Windows 11 上做好文件管理](https://sspai.com/post/76827)》
+
+如果你既没有良好的备份习惯、也不爱用云存储的话，多分一个专门存数据的 D 盘确实能让你重装系统的时候少丢一点数据。不过即使是这样的使用场景，我还是鼓励大家把软件安装在 C 盘里。
+
+一方面，Windows 在安装软件的时候还会往位于 C 盘的注册表（可以简单理解成 Windows 系统的配置文件）里写入一些关联信息；重装以后注册表里的信息同样会丢，即使软件能正常启动，但依然会有快捷方式、打开方式不可用等等奇怪的小问题。另一方面，现在有很多软件会安装在 `C:\Users\你的使用者名称\AppData\Local` 这样的位置，如果强行更改位置可能会出现奇怪的兼容性问题。所以不如直接安装到 C 盘里，省时省力。
+
+分区以后「主文件夹」功能同样可以帮助你整合文件，你只需要将每个「主文件夹」移动到分区后的另一个位置即可。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s5wEoNyLkoR12M1CUnT7CTXqbC9VILmqhpXHpyJ-5wgQ/https://cdnfile.sspai.com/2024/08/14/a54523a8ac2160b2f4cc1853d8d1d3c1.jpeg?imageView2/2/format/webp)
+
+### 你真的需要杀毒软件吗
+
+那么问题来了，2024 年了，你的电脑真的还需要杀毒软件吗？
+
+其实，Windows 自带的 Windows Defender 已经提供了基本的防病毒保护，只要不浏览高危网站以及进行高风险操作，电脑中毒的可能性本就微乎其微。随着账号实名制强度的升级以及国家对电信诈骗的打击，电脑端被盗号、盗刷信用卡的隐私泄露和财产损失风险也在逐渐降低，换句话说，通过植入病毒等方式获取隐私的成本大大提高，电脑的使用风险也随着降低。
+
+macOS 因为其本身的系统特性，用户特性以及并不及 Windows 的占有量来说，通常不是病毒传播的首选对象。而且系统本身具有的沙盒特性和 SIP（根目录保护）也带来了一定的安全保证。
+
+比起杀毒软件，一款干净、不太占用资源的清理软件可能是你更加需要的。彻底删除软件、清理磁盘空间、监测下电脑的运行消耗等，这些小功能既满足情绪价值，又能解决一些删除软件时清理不彻底的问题。
+
+* Mac 端的 [腾讯 Lemon ](https://lemon.qq.com/)清理软件
+* Windows 端 [Geek Uninstaller](https://sspai.com/link?target=https%3A%2F%2Fgeekuninstaller.com%2Fdownload) 用于彻底清除软件残留，[MemReduct](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2Fhenrypp%2Fmemreduct) 用于做内存清理
+
+### 除了重启，这些方法也能解决「卡死」问题
+
+> 遇事不决先重启，重启可以解决 99% 的问题。
+
+这样一句网上流传的「戏言」侧面印证了 PC 时代人们遇到故障的普遍解决思路，从重启的机制来看，用户普遍是遇到了诸如软件运行极其卡顿无法自行恢复、某些设备无法正常工作，甚至有些网络问题等，通过重启的内存恢复和重置系统状态起到恢复如初的效果。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sAJEEO7hSEQzvG-1WSMe4NysVdcM7U0lTdD2Fj-41bv4/https://cdnfile.sspai.com/2024/08/14/article/c87d94b27b2989c4d2583dc9b1a519f0.png?imageView2/2/format/webp)
+
+当电脑卡死，很多小白会不厌其烦地长按电源键强制关机后重启。但如果只是某个应用或游戏卡死，在下达重启整个操作系统这份「最后通牒」之前，我们其实也可以尝试终止出问题的任务。操作方法如下：
+
+在能够看到任务栏的前提下，你可以随时右键点击任务栏，然后选择呼出「任务管理器」。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sjKJ0evWTkzPEfn13aO0E4YIwf0ypsPZHPXBtJeL8qIw/https://cdnfile.sspai.com/2024/08/14/article/d6b777279ad955f106f0ceaaffbd23f2.png?imageView2/2/format/webp)
+
+然后在任务管理器中搜索需要结束的应用或游戏名称，在搜索结果上右键选择结束任务即可。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,seOfMS0azlWDTbHp_LRdhr5G47Mo3teL6SZ1wzQ5UcNc/https://cdnfile.sspai.com/2024/08/14/article/4a3328566e3fea9c0139748649072878.png?imageView2/2/format/webp)
+
+当然如果你经常遇到特定应用或游戏卡死，需要频繁与上述操作打交道，也可以直接前往「系统设置 > 开发者选项」中开启「结束任务」快捷菜单。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s51nIzxLvTRem6HgnBhZ_aKjgQIV8buxwhGbJGieHRrk/https://cdnfile.sspai.com/2024/08/14/article/988de6351d82853e1af1ca3a41406c9b.png?imageView2/2/format/webp)
+
+开启后在上面的场景中你可以直接右键点击想要终止的应用图标，然后「结束」其罪恶的一生。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sGV7m5xnSA5RpFBV979YeOoSu4qIu3KuD9L4F21psnmM/https://cdnfile.sspai.com/2024/08/14/article/f2b1533b242f9f3181f1ea9278711056.png?imageView2/2/format/webp)
+
+今天的班就上到这儿吧
+
+当然了，上面介绍的都是「能够看到任务栏」的情况。有时你可能会发现，部分全屏独占的游戏会在任务管理器弹出后强制置顶，覆盖掉任务栏和任务管理器窗口让你无法操作。这时也不用慌张——按下 `Win+Tab` 快捷键，然后点击「新建桌面」或选择现有的其他虚拟桌面，跳转到其他桌面后，你就可以正常呼出任务管理器结束对应任务了。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sXIj5tu4udqTGr3YXoafdVLd8OvsugHhVQDfZh6StPyU/https://cdnfile.sspai.com/2024/08/14/article/90f1b039694c050f9544abfdfd5c7e6f.png?imageView2/2/format/webp)
+
+macOS 上一般通过 Command + Option + Escape 键，可以选择强制退出某些没有反应的应用。如果彻底死机再通过 Control + Command + Power 安全关机后重启。
+
+## 怎么避免下到「Steam 管家」们
+
+提到下载软件，就不得不提下载 Steam 却下到「Steam 管家」这个梗，大意如下图：
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s4lH7WouGdrR-8SwI5C8QNg2oC6Jt8cXCs3Ofh_pg-iY/https://cdnfile.sspai.com/2024/08/14/article/73dcdcf40052e62dbc9bc9d23ee58937.png?imageView2/2/format/webp)
+
+颇为趣味的是，假的软件除了要开会员以外，访问体验远超正版软件（您可能是正版软件的受害者）。不过，盗版软件本质还是为了获取不合法的收益，我们应该尊重正版并学会下载到正版的软件。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sQBr6JW-YPGmq9O20ydBFe_KI5nzyKqqu9V_Kk8Rj2ro/https://cdnfile.sspai.com/2024/08/14/article/59ca24da03d51e17ab69d544b4130583.png?imageView2/2/format/webp)
+
+图源：[B 站](https://www.bilibili.com/video/BV1yr421F7Cb/?spm%5Fid%5Ffrom=333.788&vd%5Fsource=2e1e7a7afd970bb399e6ee7b804a54d8)
+
+在文件如何解压科普视频后，有视频作者也对下载软件的基本流程和注意事项做了一番 [科普](https://www.bilibili.com/video/BV1yr421F7Cb/?spm%5Fid%5Ffrom=333.788&vd%5Fsource=2e1e7a7afd970bb399e6ee7b804a54d8)，用到了我们初高中时代实验课程视频的风格，看起来颇为有趣。当我们在下载专用网站下载软件时，留意以下注意事项即可规避下载错误软件的行为：
+
+* 避开最明显的引导按钮，它们通常都是误导下载的链接。
+* 试着点击下载，通过文件的后缀和大小判断是否是自己想要的软件。
+
+在下图中，下载地址处我们应该尝试寻找最不起眼的「普通下载」字样，才有可能下载到想要的软件。一般高速下载其实是让你下载到一个你并不需要的下载器或其他软件，不必骑驴找马，本身浏览器就支持直接下载并不需要借助其他软件。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sceSUtWyIwWaUGMLBgPwWOnanh42YA63n4bqHjjcJ7dA/https://cdnfile.sspai.com/2024/08/14/article/2ddd4706d12537662522f05dd943c2f5.png?imageView2/2/format/webp)
+
+## 为什么这个文件打不开
+
+### 文件如何解压
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s-vAIqmK8RWoX3YVU2RMKZA1DTfSGwkz2IGrXeA_LHSs/https://cdnfile.sspai.com/2024/08/14/article/107299df89cf36c9d67d6078efb7fcb0.png?imageView2/2/format/webp)
+
+「天下苦微信传文件久矣」，殊不知能够意识到微信文件传输限制的用户已经是高级冲浪选手，广大网友还停留在为什么要发压缩包的提问阶段，这里有必要先介绍下文件压缩的必要性和价值。
+
+> 数据压缩的基本原理：在保持数据完整性或可识别性的前提下，通过减少数据的冗余来减小数据大小。
+
+通常来说，被压缩成统一格式的文件可以占用更小的存储空间和传输带宽，对于不同系统的适应性更佳。更重要的是，对压缩包进行加密是非常常见的一种隐私保护手段，在对数据加密要求严格的场所广泛使用。图里发言人最显而易见的问题是对压缩包的用法没有基本的认知。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sxLhlKBz90H3sNbhyOxvnQMR4woL-W0fXlFw0wE7laGA/https://cdnfile.sspai.com/2024/08/14/article/c454babcec090fe3868aef2983437c60.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+针对这一电子文盲现象，这位被骂的视频作者为移动端做了非常详细的 [视频解决方案](https://www.bilibili.com/video/BV11w4m1y7kA/?vd%5Fsource=2e1e7a7afd970bb399e6ee7b804a54d8)，网友们一步步跟着操作就可以将文件「 免费」解压。
+
+也难怪如今的用户痛恨解压，移动端下载和解压的软件会在操作过程中变相引导用户付费解压（实际上可以下载后利用手机本身的解压功能）。例如长按下载好的文件才能保存，点击只弹付费解压弹窗，下载软件的反人类交互方式给本就不熟悉相关操作的用户带来了几乎毁灭性的打击，于是就有视频开头愤怒之下反过来攻击分享资源的言行，实在令人哭笑不得。
+
+姑且把移动端解压困难重重归咎为厂商作恶，不过让人更为不解的是，电脑端的用户们却也始终坚持着以下困惑的解压行为：
+
+* 使用奇怪的解压软件，需要付费甚至要看广告；
+* 压缩密码不规范，发给对方才发现无法打开；
+* 不解压到文件夹直接双击打开压缩文件，甚至直接编辑压缩包里的文件；
+* ……
+
+对于以上屡见不鲜的现象，有必要再重述一遍解决方案。
+
+这里介绍几个常用的解压缩软件供用户参考。Mac 端来说，常使用的有 [MacZip](https://sspai.com/link?target=https%3A%2F%2Fezip.awehunt.com%2F)、[Keka](https://sspai.com/link?target=https%3A%2F%2Fwww.keka.io%2Fen%2F)，还有 [The Unarchiver](https://apps.apple.com/cn/app/the-unarchiver/id425424353?mt=12) 等知名解压软件。这几款解压来说都不成问题，需要压缩加密时可以选择 MacZip 进行带密码的加密。
+
+在 Windows 11 集成 [libarchive](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2Flibarchive%2Flibarchive) 开源库后，Windows 端的解压缩和压缩能力得到了进一步增强。除了一直支持的 Zip 格式，现在也能应对 RAR（仅解压）、7z、Tar 等常规的压缩格式，甚至对 tar.gz 等多级嵌套的格式也能支持 。不过，目前 Windows 11 还不支持解压加密的压缩文件。
+
+相比 Windows 系统自带的解压功能，[WinRAR](https://sspai.com/link?target=https%3A%2F%2Fwww.win-rar.com%2Fstart.html%3F%26L%3D0)、 [bandizip](https://sspai.com/link?target=https%3A%2F%2Fwww.bandisoft.com%2Fbandizip%2F) 等解压软件更为稳定和强大，它们在压缩的效率和参数支持等方面更有优势。后者在少数派软件 [商城](https://sspai.com/item/99) 就有上架。
+
+关于压缩密码，一定不要加一些自以为高明的中文进去，最好仅限键盘上能直接输入的英文、数字和特殊字符。之所以不推荐用中文，一来不同的操作系统对于中文的编码方式并不一致，二来不同的压缩算法对中文的支持也不一致，很容易出现跨平台发送对方无法打开的情况。比如 Mac 加密出带中文密码的 Zip 压缩包，Windows 就无法打开，但如果在 Windows 上加密成 RAR 压缩包就可以在 Mac 上正常解压。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,snbFkq_XHeDqh3PPcSr31HqdleSTJ2K3fiyXjiV8oBhk/https://cdnfile.sspai.com/2024/08/14/article/80b1d45d44a8c70de6a2942af37779dd.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+关于编辑文件，最好不要直接编辑压缩包里的文件。这既是不好的电脑使用习惯，也是不推荐的风险操作。右键压缩包，可以将文件直接解压到一整个同名的文件夹中，随后对已经存储到电脑上的文件进行编辑。压缩包依然保留原始的文档，能够应对文件损坏或丢失的情况。如果直接操作原始文件，万一修改错误就没有撤回的余地了。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sApvFfl4MlIfcyupBsi2a3hPyP71XWazSz5Ja2mLygNs/https://cdnfile.sspai.com/2024/08/14/1a7b4c4e4eb84ab8cd836a2752e13824.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+曾经有一段时间，互联网上充斥着 360、百度全家桶的「病毒」下载链接，那时候想在电脑上下载到一款纯净的软件几乎每一步操作都如履薄冰。要是一不小心下载到一款号称「绿色」的垃圾软件，右下角的狗皮膏药广告和冷不丁的诱导网页就会让你「烦不胜烦」。
+
+这时候，大多数用户会选择下载杀毒软件进行杀毒，以期删除掉电脑上的「脏东西」。发现无法删除后（此时可能已经下载了一堆不需要的软件），更有甚者下载了 B 杀毒软件对 A 杀毒软件进行查杀，结果一个都卸载不掉只能放任电脑越来越卡。
+
+### 为什么这个 PDF 打不开
+
+是的没错，2024 年了，还是有人不知道什么是 PDF（Portable Document Format）格式。这里说的并不是字面意思，而是还有很多人不理解 PDF 格式的基本特性和使用场景。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sPlI1aSLpkvUd72T5X1Il1xRqUWZuhrtk3WTPLKfNNuw/https://cdnfile.sspai.com/2024/08/14/article/f89b2f1c6311c0eb98411025286268bc.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+图源：https://www.adobe.com/acrobat.html
+
+在上世纪 90 年代初，不同的软件和操作系统之间的兼容性差异导致文档在不同设备和平台上显示不一致，文档交换和打印的标准化是一个重要问题。这种问题尤其在打印和出版行业中显得尤为严重。为了解决这一问题，我们熟悉的巨头 [Adobe 开发了 PDF 格式](https://sspai.com/link?target=https%3A%2F%2Fwww.adobe.com%2Fhk%5Fzh%2Facrobat%2Fabout-adobe-pdf.html)，旨在创建一种能够在任何平台上都能准确显示和打印的通用文档格式。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,spnJs_bG77pp_gGJVO7P0cnf4gPMfIqzlTJRH7Z96Vyc/https://cdnfile.sspai.com/2024/08/14/c92413892de3d69d995b1aa42b611928.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+了解这个背景，自然就知道 PDF 本身不是为了编辑场景而诞生的，而是为了阅读和打印的时候，格式和内容与创造时的一致性，所以才有 Word 文档、网页内容等导出成 PDF 格式的设计。真的想要编辑 PDF，推荐 Adobe Acrobat DC 的官方编辑器，当然也可以使用 Foxit PhantomPDF、Nitro Pro 第三方编辑器。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,slATPpOrU4OLL8LWVyN0khgSELYAl0IQAQxAGv49FF6g/https://cdnfile.sspai.com/2024/08/14/d9c16aaa6e03da0a2c0642ca1b2d2a7b.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+得益于部分 Adobe Acrobat PDF 技术已经被原生嵌入到 Edge 中，Windows 自带的预览和编辑 PDF 功能基本够用。Edge 不仅支持 PDF 的按目录查看和多页视图等阅览功能，同时支持选择 PDF 文本、添加文本、批注、填写表单和直接打印等基础编辑功能。如果需要更高级的 PDF 功能，如编辑图像、将 PDF 转换为其他文件格式或合并文件，可以下载 [Adobe Acrobat Reader](https://sspai.com/link?target=https%3A%2F%2Fget.adobe.com%2Freader%2F) 软件。
+
+在 macOS 本身上，PDF 的阅读和简单编辑默认通过系统的预览实现，与 Edge 差别并不甚大，需要更高阶的 PDF 编辑和处理功能时，仍需要下载独立应用实现。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sXk9eNGsaalNd2V9RYLX385E9RFsSuSIrJnRp_e99CTw/https://cdnfile.sspai.com/2024/08/14/9ada9ceef91aa856aaf3136c517bf686.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+如果下载一个独立的应用，你也可以在 [这个网站](https://sspai.com/link?target=https%3A%2F%2Fwww.ilovepdf.com%2F) 操作 PDF 的分割、合并、编辑、OCR、比较等高级操作。如果只是格式的转换可以临时通过 Word、 WPS 软件操作，省去了文档的上传步骤，转换的质量也有一定保障。
+
+### 为什么新安装的软件打不开
+
+软件安装路径中包含中文字符可能导致其无法正常运行，这是常见且容易出错的问题。
+
+这里说的不支持中文字符、包括中文汉字、中文标点符号等，具体的原因可能是软件当初的开发编译环境使用了不支持中文字符的编码方案，于是这些字符无法被正确的解码。
+
+在 Windows 上，给游戏安装依赖库或软件配置环境变量时，经常会看到类似不要配置中文路径的说明。计算机专业的学生在本机安装数据库、依赖等环境时，新手也会遇到各种环境问题，其中老师经常提到的一条就是环境变量不要有中文，否则路径容易无法访问。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sBOwmupuDDHkOSm6qC8E7cXHjeYrexDoZa9HBpqC9PGI/https://cdnfile.sspai.com/2024/08/14/6518c3cf4a6fb8831c3deccf334b41a6.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1/format/webp)
+
+如果软件安装指定的单个路径包含中文我们还可以简单地更改，但如果是计算机一开始的 user 名称被指定成了中文「用户」，就会造成很大的麻烦。B 站也不乏类似问题的提问和解决方案，其中 [这期视频](https://www.bilibili.com/video/BV1x84y1b7p7/?spm%5Fid%5Ffrom=333.337.search-card.all.click&vd%5Fsource=2e1e7a7afd970bb399e6ee7b804a54d8) 给出的解决方案出自 [官方社区](https://sspai.com/link?target=https%3A%2F%2Fanswers.microsoft.com%2Fzh-hans%2Fwindows%2Fforum%2Fall%2F%25e4%25bf%25ae%25e6%2594%25b9-windows%2F3c8cc397-e62a-4e3f-a113-96a342995982)，值得参考。
+
+> 从 Windows Vista 开始，微软将用户配置文件存放到 C:\\Users 文件夹（驱动器C通常为 Windows 启动分区，如果您使用的是中文语言看到的应该是 “C:\\用户 “”文件夹），而在更早的版本中（例如 Windows XP ）用户配置文件存放在 C:\\Documents and Settings 这样的文件夹中，这样的变更带来了兼容性问题，一些程序将 C:\\Documents and Settings 这样的路径固化在代码中，如果此路径不可访问程序将出现异常或者直接退出。
+> 
+> 为了改善这个问题，微软使用了「符号链接」，在 Windows Vista 及更高版本中当程序要访问 C:\\Documents and Settings 这样的路径时，会自动重定向到 C:\\Users 文件夹，这样在程序看来自己依然是在访问 C:\\Documents and Settings 没有任何问题，但实际的数据读写都由 Windows 转到 C:\\Users 完成。
+
+通过以上方式，用户创建的中文用户名无需更改，只要不改动注册表和原来的账户文件夹，符号链接就能一直正确访问，软件应该也能正确打开。不过建议下次重装系统或者更换电脑时，创建英文的用户名以避免不必要的麻烦。
+
+## 结语
+
+不论是哪一年，只要人类的生产力核心设备还是计算机，我们依然会遇到需要重装系统、软件安装完打不开、不会压缩/解压缩等问题。即使屏幕前的我们已经知晓或学会了这些技巧，也并不值得骄傲，因为还有太多我们不知道的内容不知道在哪一年会诞生，那时候我们的学习能力是否还跟得上步伐呢？
+
+曾经遇到不会解决的问题并不会随着我们的长大而自己消失，相反不愿意麻烦别人的我们，始终要学会解决自己的问题，至少会解决自己生产力设备的问题，否则就谈不上生产力了。时代变迁，我们也应该持续学习新的知识，避免我们有一天成为「赛博文盲」。
+
+\> 关注 [少数派小红书](https://www.xiaohongshu.com/user/profile/63f5d65d000000001001d8d4)，感受精彩数字生活 🍃
+
+\> 实用、好用的 [正版软件](https://sspai.com/mall)，少数派为你呈现 🚀
+
+© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。
+
