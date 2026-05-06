@@ -49,7 +49,21 @@
 
 ## 历史记录
 
-（条目将按时间倒序添加，最新的在前面）
+### 摄入 - 2026-05-05
+
+**来源**：[告别 RAG！Karpathy 用 Obsidian + AI 打造「会自我进化」的知识库](raw/articles/告别RAG_Karpathy_LLM-Wiki.md)
+**处理摘要**：
+1. 保存原始文章到 raw/articles/
+2. 大幅更新 [[LLM-Wiki 系统]] 页面：补充成本分析、适用场景、工具定位等细节
+3. 新建 [[RAG vs LLM-Wiki]] 对比分析页面：两种范式的横向比较
+4. 新建 [[知识管理]] 综述页面：知识管理从传统到 LLM-Wiki 的演进
+5. 更新 [[wiki/index.md]] 索引
+**创建/更新页面**：
+- [[LLM-Wiki 系统]] - 更新（补充文章细节）
+- [[RAG vs LLM-Wiki]] - 新建
+- [[知识管理]] - 新建
+- [[wiki/index.md]] - 更新索引
+**备注**：文章来自 Inbox 中的「告别 RAG Karpathy 用 Obsidian AI 打造 会自我进化 的知识库.md」，微信 Bug 2048 AI 公众号，2026-04-08
 
 ---
 _此文件由 AI 维护，每次摄入、查询、维护操作后自动更新。_

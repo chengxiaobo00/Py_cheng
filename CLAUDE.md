@@ -99,19 +99,26 @@ LLM-Wiki = 不可变来源 + AI 维护的结构化知识 + 系统运行规则
 - 使用 Obsidian 的 `[[双链]]` 语法建立页面间连接
 - 在 `index.md` 中维护全局索引
 
-## 你的 Vault 整合建议
+## Vault 目录结构
 
-### 现有目录映射
-- `00 Inbox/` → 仍作为收件箱，但定期将重要内容摄入到 wiki/
-- `01 Areas/` → 可作为 Wiki 的实体页面区域
-- `04 Archives/` → 可作为已完成的深度研究的归档
-- `learning/` → 与 Wiki 的主题综述整合
-- `copilot-conversations/` → 有价值的对话归档到 Wiki
+### 编号文件夹
+- `00 Inbox/` → 收件箱，但定期将重要内容摄入到 wiki/
+- `01 Areas/` → 工作领域（Tags、TaskNotes 等）
+- `02 Projects/` → 项目（Output）
+- `03 Resources/` → 资源（Omnivore、Flomo、learning、Movie、assets、Attachment、Excalidraw、Weread 等）
+- `04 Archives/` → 归档
+- `05 Daily/` → 每日笔记 + 周报
+- `06 Templates/` → 模板
+- `07 Tools/` → 工具配置（copilot-conversations、copilot-custom-prompts）
+
+### 系统目录
+- `wiki/` → AI 维护的结构化知识库
+- `raw/` → 不可变原始资料
 
 ### 行动建议
-1. 将这篇文章（关于 Karpathy LLM-Wiki）摄入到 Wiki
-2. 选择一个你感兴趣的主题，建立第一个主题综述页面
-3. 每次有价值的学习/对话后，主动归档到 Wiki
+1. 定期将 Inbox 中的重要内容摄入到 Wiki
+2. 每次有价值的学习/对话后，主动归档到 Wiki
+3. 运行 `/lint` 定期对 Wiki 进行健康检查
 
 ## 成功标准
 
